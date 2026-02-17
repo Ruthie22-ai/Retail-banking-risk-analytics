@@ -1,0 +1,1501 @@
+flag_id,transaction_id,fraud_type,flagged_date,status
+950001,530671,Large POS Spending,2024-03-21,Confirmed
+950002,508322,Unusual Withdrawal,2022-11-23,Cleared
+950003,504588,Large POS Spending,2022-06-02,Confirmed
+950004,541299,Large POS Spending,2025-01-08,Confirmed
+950005,545530,Large POS Spending,2024-07-11,Investigating
+950006,548713,Unusual Withdrawal,2022-03-08,Investigating
+950007,538596,Unusual Withdrawal,2025-01-03,Investigating
+950008,500070,Unusual Withdrawal,2023-12-30,Confirmed
+950009,545091,Large POS Spending,2023-10-07,Investigating
+950010,549359,Large POS Spending,2025-03-04,Investigating
+950011,506953,Unusual Withdrawal,2022-04-17,Investigating
+950012,510652,Rapid Transfers,2023-07-17,Confirmed
+950013,541288,Rapid Transfers,2024-02-05,Cleared
+950014,517195,Unusual Withdrawal,2024-10-09,Cleared
+950015,532148,Unusual Withdrawal,2023-10-18,Confirmed
+950016,524128,Rapid Transfers,2022-08-28,Confirmed
+950017,532262,Rapid Transfers,2022-02-19,Investigating
+950018,531527,Large POS Spending,2024-06-29,Investigating
+950019,540386,Rapid Transfers,2024-10-23,Cleared
+950020,535987,Large POS Spending,2022-11-17,Investigating
+950021,530736,Unusual Withdrawal,2024-02-05,Investigating
+950022,519933,Large POS Spending,2024-01-10,Investigating
+950023,541879,Unusual Withdrawal,2024-09-17,Investigating
+950024,534033,Large POS Spending,2023-04-12,Confirmed
+950025,516525,Unusual Withdrawal,2025-01-31,Confirmed
+950026,521613,Large POS Spending,2022-10-30,Investigating
+950027,513356,Large POS Spending,2022-07-14,Cleared
+950028,508749,Unusual Withdrawal,2024-11-07,Investigating
+950029,502400,Rapid Transfers,2022-07-22,Confirmed
+950030,502574,Unusual Withdrawal,2024-10-06,Investigating
+950031,524725,Large POS Spending,2022-06-18,Confirmed
+950032,538082,Unusual Withdrawal,2024-07-13,Investigating
+950033,536611,Unusual Withdrawal,2024-08-04,Investigating
+950034,500029,Unusual Withdrawal,2023-05-01,Cleared
+950035,533178,Large POS Spending,2022-08-10,Confirmed
+950036,527496,Unusual Withdrawal,2025-02-09,Confirmed
+950037,528689,Large POS Spending,2023-11-04,Cleared
+950038,540043,Rapid Transfers,2024-12-06,Confirmed
+950039,503154,Unusual Withdrawal,2023-06-13,Cleared
+950040,520142,Large POS Spending,2022-11-04,Investigating
+950041,532265,Rapid Transfers,2024-04-12,Cleared
+950042,540154,Rapid Transfers,2024-09-07,Confirmed
+950043,537471,Rapid Transfers,2022-10-22,Investigating
+950044,535147,Unusual Withdrawal,2024-07-14,Confirmed
+950045,526488,Unusual Withdrawal,2023-04-20,Investigating
+950046,524902,Unusual Withdrawal,2023-08-15,Confirmed
+950047,517519,Rapid Transfers,2024-08-27,Investigating
+950048,530797,Unusual Withdrawal,2022-11-30,Investigating
+950049,538205,Large POS Spending,2022-11-26,Cleared
+950050,527181,Rapid Transfers,2023-03-01,Investigating
+950051,544325,Large POS Spending,2022-10-13,Investigating
+950052,509357,Rapid Transfers,2023-01-06,Investigating
+950053,529258,Large POS Spending,2022-08-16,Investigating
+950054,533558,Unusual Withdrawal,2023-09-21,Investigating
+950055,506365,Large POS Spending,2024-03-13,Investigating
+950056,532847,Rapid Transfers,2024-01-02,Cleared
+950057,534929,Large POS Spending,2022-03-20,Cleared
+950058,512553,Rapid Transfers,2024-07-18,Investigating
+950059,548858,Unusual Withdrawal,2023-09-20,Cleared
+950060,502552,Rapid Transfers,2024-05-04,Cleared
+950061,533610,Large POS Spending,2024-10-25,Confirmed
+950062,525150,Unusual Withdrawal,2022-01-12,Investigating
+950063,501549,Unusual Withdrawal,2024-04-05,Confirmed
+950064,542162,Rapid Transfers,2024-11-19,Cleared
+950065,538247,Unusual Withdrawal,2022-04-14,Confirmed
+950066,520270,Rapid Transfers,2024-06-29,Investigating
+950067,542774,Rapid Transfers,2024-05-17,Investigating
+950068,535954,Unusual Withdrawal,2024-04-27,Investigating
+950069,514144,Rapid Transfers,2023-12-12,Investigating
+950070,520258,Rapid Transfers,2024-06-25,Confirmed
+950071,541182,Large POS Spending,2023-02-15,Confirmed
+950072,536457,Large POS Spending,2024-12-03,Cleared
+950073,513396,Large POS Spending,2022-04-02,Confirmed
+950074,546477,Large POS Spending,2024-01-17,Investigating
+950075,531243,Rapid Transfers,2024-04-26,Confirmed
+950076,500767,Rapid Transfers,2022-02-26,Investigating
+950077,528173,Rapid Transfers,2023-04-11,Investigating
+950078,506349,Unusual Withdrawal,2024-06-30,Confirmed
+950079,513146,Unusual Withdrawal,2024-04-15,Investigating
+950080,524351,Rapid Transfers,2025-03-26,Investigating
+950081,522198,Large POS Spending,2022-05-31,Confirmed
+950082,527144,Large POS Spending,2023-03-07,Investigating
+950083,503505,Unusual Withdrawal,2025-02-02,Confirmed
+950084,516940,Rapid Transfers,2023-08-13,Confirmed
+950085,505318,Rapid Transfers,2024-10-19,Investigating
+950086,506270,Rapid Transfers,2024-02-14,Investigating
+950087,542059,Unusual Withdrawal,2022-02-11,Investigating
+950088,548855,Unusual Withdrawal,2022-08-20,Investigating
+950089,514636,Unusual Withdrawal,2025-01-15,Cleared
+950090,529670,Large POS Spending,2024-01-22,Confirmed
+950091,538545,Unusual Withdrawal,2023-05-26,Cleared
+950092,515541,Unusual Withdrawal,2022-10-24,Investigating
+950093,521108,Unusual Withdrawal,2023-06-23,Confirmed
+950094,516477,Unusual Withdrawal,2022-10-12,Confirmed
+950095,520676,Rapid Transfers,2024-01-16,Investigating
+950096,505355,Large POS Spending,2023-06-07,Confirmed
+950097,518366,Unusual Withdrawal,2022-03-30,Confirmed
+950098,534939,Unusual Withdrawal,2024-02-25,Confirmed
+950099,533926,Rapid Transfers,2022-02-24,Confirmed
+950100,513903,Large POS Spending,2024-04-24,Investigating
+950101,547574,Rapid Transfers,2024-10-31,Investigating
+950102,519426,Unusual Withdrawal,2025-03-01,Investigating
+950103,500098,Rapid Transfers,2022-11-01,Investigating
+950104,533755,Rapid Transfers,2023-06-28,Investigating
+950105,527874,Large POS Spending,2022-06-25,Investigating
+950106,549789,Rapid Transfers,2022-10-15,Confirmed
+950107,510202,Rapid Transfers,2024-09-03,Investigating
+950108,518082,Large POS Spending,2025-01-08,Confirmed
+950109,540786,Rapid Transfers,2022-03-10,Investigating
+950110,539523,Unusual Withdrawal,2024-12-31,Cleared
+950111,521476,Unusual Withdrawal,2022-08-03,Investigating
+950112,524179,Rapid Transfers,2025-03-01,Confirmed
+950113,503186,Rapid Transfers,2024-12-21,Confirmed
+950114,541414,Unusual Withdrawal,2023-10-23,Investigating
+950115,535854,Rapid Transfers,2024-02-07,Investigating
+950116,523148,Rapid Transfers,2025-04-05,Investigating
+950117,525527,Unusual Withdrawal,2023-06-30,Confirmed
+950118,537188,Large POS Spending,2023-05-04,Investigating
+950119,515704,Unusual Withdrawal,2022-03-30,Investigating
+950120,546628,Large POS Spending,2022-08-23,Cleared
+950121,517454,Rapid Transfers,2023-11-10,Confirmed
+950122,530676,Unusual Withdrawal,2023-03-23,Confirmed
+950123,523568,Unusual Withdrawal,2024-10-20,Confirmed
+950124,537616,Large POS Spending,2022-08-19,Investigating
+950125,541236,Unusual Withdrawal,2022-04-03,Confirmed
+950126,527404,Large POS Spending,2024-01-29,Investigating
+950127,509358,Rapid Transfers,2022-08-08,Confirmed
+950128,539714,Large POS Spending,2022-05-03,Cleared
+950129,525490,Unusual Withdrawal,2024-07-22,Cleared
+950130,514736,Large POS Spending,2025-04-12,Confirmed
+950131,517882,Unusual Withdrawal,2024-08-28,Investigating
+950132,540935,Rapid Transfers,2023-03-09,Confirmed
+950133,544124,Unusual Withdrawal,2024-11-14,Investigating
+950134,526180,Large POS Spending,2025-03-07,Investigating
+950135,506499,Unusual Withdrawal,2023-05-19,Cleared
+950136,537081,Large POS Spending,2023-10-31,Investigating
+950137,508363,Rapid Transfers,2023-10-29,Investigating
+950138,518326,Large POS Spending,2025-03-30,Investigating
+950139,524367,Large POS Spending,2023-10-23,Confirmed
+950140,545888,Unusual Withdrawal,2023-05-10,Investigating
+950141,509984,Unusual Withdrawal,2024-03-15,Confirmed
+950142,514453,Large POS Spending,2022-07-30,Confirmed
+950143,521912,Large POS Spending,2022-01-24,Confirmed
+950144,536825,Unusual Withdrawal,2024-09-30,Cleared
+950145,541913,Large POS Spending,2022-06-07,Investigating
+950146,505387,Rapid Transfers,2023-11-21,Investigating
+950147,538832,Large POS Spending,2022-01-28,Confirmed
+950148,541670,Rapid Transfers,2024-10-06,Confirmed
+950149,507630,Large POS Spending,2023-04-14,Cleared
+950150,549411,Large POS Spending,2023-02-24,Cleared
+950151,546972,Large POS Spending,2024-08-17,Investigating
+950152,528767,Large POS Spending,2023-04-21,Confirmed
+950153,535393,Rapid Transfers,2023-01-10,Confirmed
+950154,507324,Large POS Spending,2023-02-16,Investigating
+950155,537531,Rapid Transfers,2023-07-11,Investigating
+950156,503783,Large POS Spending,2024-06-05,Investigating
+950157,517165,Large POS Spending,2022-08-06,Cleared
+950158,521658,Large POS Spending,2024-05-23,Cleared
+950159,547330,Unusual Withdrawal,2024-08-09,Investigating
+950160,505725,Rapid Transfers,2022-03-30,Investigating
+950161,544825,Rapid Transfers,2024-01-10,Cleared
+950162,521138,Rapid Transfers,2023-06-22,Investigating
+950163,501806,Rapid Transfers,2022-04-17,Investigating
+950164,507053,Large POS Spending,2023-04-14,Investigating
+950165,533269,Large POS Spending,2022-04-24,Investigating
+950166,537233,Unusual Withdrawal,2022-12-27,Confirmed
+950167,526537,Rapid Transfers,2023-06-26,Confirmed
+950168,502105,Rapid Transfers,2024-05-17,Investigating
+950169,535609,Unusual Withdrawal,2022-10-05,Investigating
+950170,501367,Rapid Transfers,2025-03-16,Investigating
+950171,538733,Rapid Transfers,2024-06-06,Cleared
+950172,508031,Rapid Transfers,2022-04-12,Cleared
+950173,547627,Rapid Transfers,2023-09-19,Confirmed
+950174,545613,Rapid Transfers,2023-08-29,Confirmed
+950175,500932,Large POS Spending,2024-05-27,Confirmed
+950176,522692,Unusual Withdrawal,2022-07-28,Investigating
+950177,505801,Large POS Spending,2024-10-10,Cleared
+950178,544895,Unusual Withdrawal,2022-09-03,Confirmed
+950179,530506,Rapid Transfers,2023-04-28,Investigating
+950180,541833,Unusual Withdrawal,2022-08-14,Investigating
+950181,523699,Unusual Withdrawal,2022-07-13,Confirmed
+950182,511129,Large POS Spending,2024-01-07,Confirmed
+950183,527384,Unusual Withdrawal,2024-07-02,Investigating
+950184,517970,Rapid Transfers,2023-09-30,Investigating
+950185,545447,Unusual Withdrawal,2022-11-28,Cleared
+950186,520085,Rapid Transfers,2024-05-13,Confirmed
+950187,541506,Unusual Withdrawal,2022-08-27,Investigating
+950188,513307,Large POS Spending,2024-07-16,Cleared
+950189,549928,Rapid Transfers,2022-10-30,Investigating
+950190,526492,Large POS Spending,2024-11-13,Confirmed
+950191,533820,Unusual Withdrawal,2025-03-10,Confirmed
+950192,501474,Rapid Transfers,2025-01-01,Confirmed
+950193,520296,Large POS Spending,2022-09-09,Investigating
+950194,538077,Rapid Transfers,2023-01-07,Confirmed
+950195,539545,Unusual Withdrawal,2023-03-30,Investigating
+950196,501294,Large POS Spending,2023-11-27,Investigating
+950197,500367,Large POS Spending,2023-06-19,Confirmed
+950198,543936,Rapid Transfers,2025-02-07,Investigating
+950199,525157,Rapid Transfers,2025-04-05,Confirmed
+950200,506319,Large POS Spending,2024-02-06,Investigating
+950201,545840,Large POS Spending,2022-09-30,Cleared
+950202,515934,Large POS Spending,2025-02-11,Confirmed
+950203,508954,Unusual Withdrawal,2025-01-25,Confirmed
+950204,527525,Unusual Withdrawal,2022-11-19,Investigating
+950205,507941,Large POS Spending,2023-04-02,Confirmed
+950206,541217,Large POS Spending,2022-05-03,Confirmed
+950207,531907,Rapid Transfers,2025-04-11,Confirmed
+950208,546399,Large POS Spending,2023-04-24,Investigating
+950209,527949,Rapid Transfers,2023-11-06,Investigating
+950210,549491,Rapid Transfers,2024-11-21,Confirmed
+950211,515751,Large POS Spending,2022-01-29,Cleared
+950212,520243,Unusual Withdrawal,2022-05-06,Investigating
+950213,532452,Large POS Spending,2022-04-30,Cleared
+950214,532838,Rapid Transfers,2022-11-11,Cleared
+950215,536916,Large POS Spending,2024-04-22,Investigating
+950216,503282,Large POS Spending,2022-01-21,Cleared
+950217,510517,Rapid Transfers,2024-10-23,Confirmed
+950218,526073,Large POS Spending,2023-01-10,Investigating
+950219,512110,Unusual Withdrawal,2023-07-06,Investigating
+950220,532017,Rapid Transfers,2025-01-28,Investigating
+950221,526489,Rapid Transfers,2022-06-06,Cleared
+950222,537281,Unusual Withdrawal,2022-04-28,Investigating
+950223,532374,Unusual Withdrawal,2024-09-13,Investigating
+950224,526440,Unusual Withdrawal,2024-08-10,Cleared
+950225,538502,Unusual Withdrawal,2023-04-29,Cleared
+950226,535672,Unusual Withdrawal,2024-03-10,Confirmed
+950227,529965,Rapid Transfers,2022-12-09,Cleared
+950228,504199,Unusual Withdrawal,2023-01-25,Confirmed
+950229,514903,Unusual Withdrawal,2022-07-18,Confirmed
+950230,509323,Rapid Transfers,2024-07-09,Cleared
+950231,516978,Rapid Transfers,2024-11-29,Investigating
+950232,524824,Unusual Withdrawal,2022-01-30,Cleared
+950233,525799,Rapid Transfers,2025-03-02,Cleared
+950234,520497,Unusual Withdrawal,2024-03-21,Cleared
+950235,532790,Large POS Spending,2022-05-27,Confirmed
+950236,523488,Unusual Withdrawal,2024-01-02,Investigating
+950237,543376,Rapid Transfers,2025-02-15,Confirmed
+950238,545209,Rapid Transfers,2023-04-11,Confirmed
+950239,548249,Large POS Spending,2022-09-29,Cleared
+950240,546114,Unusual Withdrawal,2022-12-10,Investigating
+950241,549694,Unusual Withdrawal,2023-12-16,Confirmed
+950242,539795,Unusual Withdrawal,2022-10-31,Confirmed
+950243,528794,Rapid Transfers,2025-01-26,Confirmed
+950244,515432,Unusual Withdrawal,2024-11-22,Investigating
+950245,543318,Rapid Transfers,2024-01-12,Cleared
+950246,505077,Unusual Withdrawal,2024-02-13,Investigating
+950247,523770,Unusual Withdrawal,2022-07-03,Investigating
+950248,511678,Unusual Withdrawal,2024-11-18,Investigating
+950249,549922,Large POS Spending,2023-07-09,Cleared
+950250,534914,Unusual Withdrawal,2025-03-17,Cleared
+950251,514131,Unusual Withdrawal,2022-06-09,Confirmed
+950252,549913,Large POS Spending,2022-10-07,Investigating
+950253,541103,Rapid Transfers,2024-06-12,Investigating
+950254,513628,Unusual Withdrawal,2024-08-26,Confirmed
+950255,529120,Rapid Transfers,2022-09-10,Confirmed
+950256,529103,Unusual Withdrawal,2024-07-27,Investigating
+950257,515251,Large POS Spending,2023-04-17,Cleared
+950258,546363,Rapid Transfers,2024-10-24,Cleared
+950259,515152,Large POS Spending,2022-01-12,Investigating
+950260,538357,Unusual Withdrawal,2024-12-15,Cleared
+950261,527651,Large POS Spending,2022-12-30,Investigating
+950262,543189,Rapid Transfers,2025-02-18,Investigating
+950263,517668,Large POS Spending,2023-06-13,Investigating
+950264,513031,Unusual Withdrawal,2024-03-14,Cleared
+950265,541489,Unusual Withdrawal,2023-04-26,Confirmed
+950266,543246,Rapid Transfers,2023-08-31,Confirmed
+950267,505684,Unusual Withdrawal,2024-02-02,Cleared
+950268,517639,Unusual Withdrawal,2023-06-02,Investigating
+950269,524504,Large POS Spending,2023-02-21,Investigating
+950270,516607,Unusual Withdrawal,2023-12-29,Investigating
+950271,522818,Large POS Spending,2023-08-05,Investigating
+950272,508777,Rapid Transfers,2022-01-01,Investigating
+950273,508270,Unusual Withdrawal,2023-01-15,Confirmed
+950274,548766,Rapid Transfers,2022-01-22,Cleared
+950275,524116,Rapid Transfers,2024-04-23,Confirmed
+950276,511761,Rapid Transfers,2022-08-01,Confirmed
+950277,504333,Rapid Transfers,2022-08-31,Confirmed
+950278,544004,Large POS Spending,2023-10-19,Investigating
+950279,536646,Rapid Transfers,2022-05-06,Confirmed
+950280,542735,Large POS Spending,2023-11-23,Investigating
+950281,533701,Large POS Spending,2023-06-16,Investigating
+950282,512764,Rapid Transfers,2024-04-23,Investigating
+950283,507136,Large POS Spending,2023-09-22,Investigating
+950284,549421,Large POS Spending,2024-11-09,Cleared
+950285,523897,Unusual Withdrawal,2024-07-08,Investigating
+950286,507347,Unusual Withdrawal,2022-07-16,Investigating
+950287,525174,Rapid Transfers,2023-05-11,Investigating
+950288,507339,Large POS Spending,2024-02-22,Confirmed
+950289,517941,Large POS Spending,2022-12-29,Confirmed
+950290,515327,Unusual Withdrawal,2024-11-20,Investigating
+950291,520031,Unusual Withdrawal,2022-03-06,Investigating
+950292,524145,Unusual Withdrawal,2024-05-04,Investigating
+950293,537900,Large POS Spending,2023-12-12,Confirmed
+950294,525316,Rapid Transfers,2025-03-16,Investigating
+950295,517425,Large POS Spending,2024-05-23,Cleared
+950296,528612,Rapid Transfers,2025-02-26,Investigating
+950297,526197,Large POS Spending,2024-05-29,Investigating
+950298,534911,Rapid Transfers,2023-09-28,Confirmed
+950299,534997,Large POS Spending,2024-09-16,Investigating
+950300,539014,Unusual Withdrawal,2022-11-30,Investigating
+950301,509808,Rapid Transfers,2024-02-15,Investigating
+950302,545453,Unusual Withdrawal,2022-08-29,Confirmed
+950303,502064,Unusual Withdrawal,2022-11-18,Investigating
+950304,517283,Unusual Withdrawal,2023-04-11,Investigating
+950305,527762,Rapid Transfers,2023-08-30,Confirmed
+950306,548908,Unusual Withdrawal,2022-06-18,Confirmed
+950307,502098,Rapid Transfers,2024-11-13,Investigating
+950308,535232,Unusual Withdrawal,2023-07-19,Cleared
+950309,538396,Large POS Spending,2022-07-03,Investigating
+950310,543344,Large POS Spending,2022-08-15,Confirmed
+950311,510451,Rapid Transfers,2024-02-08,Investigating
+950312,543173,Rapid Transfers,2022-02-15,Investigating
+950313,523605,Unusual Withdrawal,2023-01-18,Confirmed
+950314,505710,Unusual Withdrawal,2024-05-02,Investigating
+950315,543280,Unusual Withdrawal,2022-08-13,Cleared
+950316,503291,Rapid Transfers,2022-12-15,Confirmed
+950317,500855,Unusual Withdrawal,2024-02-15,Investigating
+950318,504704,Rapid Transfers,2022-01-14,Confirmed
+950319,511385,Rapid Transfers,2023-02-16,Investigating
+950320,545719,Rapid Transfers,2024-09-14,Cleared
+950321,524577,Large POS Spending,2023-05-24,Investigating
+950322,513680,Large POS Spending,2024-04-22,Investigating
+950323,529214,Large POS Spending,2022-01-17,Investigating
+950324,517667,Unusual Withdrawal,2023-09-03,Investigating
+950325,504555,Large POS Spending,2023-11-09,Confirmed
+950326,503210,Unusual Withdrawal,2024-11-25,Confirmed
+950327,507916,Unusual Withdrawal,2023-09-26,Cleared
+950328,536425,Unusual Withdrawal,2023-03-02,Investigating
+950329,526533,Unusual Withdrawal,2022-01-30,Investigating
+950330,520836,Large POS Spending,2024-04-04,Confirmed
+950331,543701,Unusual Withdrawal,2022-06-25,Cleared
+950332,509605,Large POS Spending,2024-07-29,Confirmed
+950333,511804,Unusual Withdrawal,2024-07-20,Investigating
+950334,530502,Unusual Withdrawal,2023-03-27,Investigating
+950335,523567,Unusual Withdrawal,2022-12-17,Investigating
+950336,526799,Large POS Spending,2024-02-01,Investigating
+950337,528720,Rapid Transfers,2023-02-13,Investigating
+950338,522961,Rapid Transfers,2024-12-17,Confirmed
+950339,527462,Unusual Withdrawal,2023-10-19,Cleared
+950340,524578,Rapid Transfers,2022-06-25,Cleared
+950341,542518,Unusual Withdrawal,2024-12-30,Investigating
+950342,519533,Unusual Withdrawal,2022-11-03,Confirmed
+950343,516520,Large POS Spending,2023-03-19,Investigating
+950344,506569,Unusual Withdrawal,2024-01-06,Investigating
+950345,509226,Large POS Spending,2022-05-25,Investigating
+950346,500817,Large POS Spending,2022-02-07,Confirmed
+950347,510172,Rapid Transfers,2025-02-23,Confirmed
+950348,503290,Large POS Spending,2022-12-04,Confirmed
+950349,522760,Rapid Transfers,2023-04-10,Confirmed
+950350,508561,Large POS Spending,2023-08-15,Cleared
+950351,549182,Rapid Transfers,2023-05-01,Investigating
+950352,512034,Unusual Withdrawal,2022-01-15,Investigating
+950353,509767,Large POS Spending,2022-05-05,Confirmed
+950354,539975,Unusual Withdrawal,2023-02-19,Cleared
+950355,511510,Rapid Transfers,2023-05-24,Investigating
+950356,515319,Rapid Transfers,2022-03-18,Confirmed
+950357,544334,Large POS Spending,2022-11-10,Confirmed
+950358,504599,Unusual Withdrawal,2024-02-06,Investigating
+950359,514290,Large POS Spending,2024-04-08,Confirmed
+950360,521423,Large POS Spending,2022-08-19,Confirmed
+950361,522177,Large POS Spending,2024-06-13,Investigating
+950362,544116,Large POS Spending,2024-05-13,Confirmed
+950363,526973,Large POS Spending,2024-07-13,Confirmed
+950364,517351,Large POS Spending,2022-09-10,Cleared
+950365,500850,Rapid Transfers,2024-02-04,Investigating
+950366,545611,Unusual Withdrawal,2024-08-12,Investigating
+950367,548124,Large POS Spending,2024-11-25,Investigating
+950368,534607,Rapid Transfers,2024-04-27,Confirmed
+950369,518572,Rapid Transfers,2023-09-21,Confirmed
+950370,527337,Unusual Withdrawal,2023-08-18,Investigating
+950371,511138,Rapid Transfers,2022-03-28,Cleared
+950372,528586,Rapid Transfers,2022-06-08,Cleared
+950373,519384,Unusual Withdrawal,2023-09-25,Investigating
+950374,540703,Unusual Withdrawal,2022-10-12,Cleared
+950375,508559,Unusual Withdrawal,2023-02-03,Confirmed
+950376,541550,Rapid Transfers,2023-08-10,Investigating
+950377,528435,Rapid Transfers,2023-08-19,Investigating
+950378,530223,Rapid Transfers,2024-11-01,Investigating
+950379,505872,Large POS Spending,2024-01-31,Cleared
+950380,536844,Large POS Spending,2022-10-15,Cleared
+950381,510480,Rapid Transfers,2022-05-27,Investigating
+950382,545876,Unusual Withdrawal,2025-01-05,Cleared
+950383,505099,Rapid Transfers,2024-09-16,Confirmed
+950384,545636,Unusual Withdrawal,2022-12-13,Investigating
+950385,510483,Large POS Spending,2022-04-26,Confirmed
+950386,500292,Rapid Transfers,2022-10-07,Investigating
+950387,500440,Unusual Withdrawal,2023-10-04,Cleared
+950388,521721,Rapid Transfers,2022-09-21,Confirmed
+950389,517628,Unusual Withdrawal,2024-09-30,Confirmed
+950390,501505,Unusual Withdrawal,2023-09-23,Cleared
+950391,536233,Rapid Transfers,2022-11-11,Investigating
+950392,525089,Large POS Spending,2022-01-22,Investigating
+950393,501149,Rapid Transfers,2023-07-18,Investigating
+950394,506029,Large POS Spending,2025-02-01,Confirmed
+950395,539316,Rapid Transfers,2024-12-17,Investigating
+950396,501242,Rapid Transfers,2023-12-02,Confirmed
+950397,506703,Rapid Transfers,2022-04-08,Confirmed
+950398,527123,Unusual Withdrawal,2024-03-06,Confirmed
+950399,507526,Unusual Withdrawal,2024-10-26,Confirmed
+950400,538698,Large POS Spending,2023-07-16,Confirmed
+950401,546034,Rapid Transfers,2023-12-18,Investigating
+950402,502235,Unusual Withdrawal,2022-09-13,Investigating
+950403,541372,Rapid Transfers,2022-12-31,Investigating
+950404,528087,Rapid Transfers,2023-07-22,Confirmed
+950405,507174,Rapid Transfers,2024-02-24,Confirmed
+950406,516919,Large POS Spending,2023-03-01,Cleared
+950407,534747,Rapid Transfers,2024-09-29,Confirmed
+950408,516062,Unusual Withdrawal,2024-02-14,Investigating
+950409,526453,Large POS Spending,2023-12-03,Confirmed
+950410,506446,Rapid Transfers,2023-11-14,Cleared
+950411,528113,Unusual Withdrawal,2022-10-23,Confirmed
+950412,519640,Unusual Withdrawal,2024-06-27,Investigating
+950413,534984,Large POS Spending,2023-04-13,Investigating
+950414,506989,Large POS Spending,2023-11-03,Confirmed
+950415,541365,Unusual Withdrawal,2022-05-12,Investigating
+950416,544977,Unusual Withdrawal,2023-04-16,Investigating
+950417,543996,Unusual Withdrawal,2024-06-07,Cleared
+950418,538739,Rapid Transfers,2022-12-26,Investigating
+950419,522886,Rapid Transfers,2022-08-15,Investigating
+950420,502811,Unusual Withdrawal,2023-06-12,Investigating
+950421,506129,Unusual Withdrawal,2022-06-26,Confirmed
+950422,516519,Unusual Withdrawal,2023-02-26,Confirmed
+950423,511001,Rapid Transfers,2023-11-25,Investigating
+950424,518974,Rapid Transfers,2023-12-04,Cleared
+950425,517414,Unusual Withdrawal,2024-11-19,Confirmed
+950426,538303,Rapid Transfers,2023-04-27,Investigating
+950427,520577,Unusual Withdrawal,2022-11-27,Cleared
+950428,526858,Unusual Withdrawal,2024-06-19,Cleared
+950429,542418,Unusual Withdrawal,2023-02-06,Investigating
+950430,547417,Large POS Spending,2023-11-28,Investigating
+950431,547220,Unusual Withdrawal,2023-03-14,Confirmed
+950432,507772,Large POS Spending,2022-05-21,Investigating
+950433,529375,Rapid Transfers,2022-01-12,Cleared
+950434,528792,Unusual Withdrawal,2022-08-10,Confirmed
+950435,502862,Large POS Spending,2025-01-18,Confirmed
+950436,543137,Rapid Transfers,2025-01-04,Cleared
+950437,547258,Large POS Spending,2022-03-19,Cleared
+950438,514282,Rapid Transfers,2024-08-02,Investigating
+950439,502675,Large POS Spending,2022-12-01,Cleared
+950440,505501,Large POS Spending,2023-12-24,Investigating
+950441,513530,Rapid Transfers,2023-10-31,Confirmed
+950442,535342,Large POS Spending,2022-03-31,Cleared
+950443,525292,Large POS Spending,2022-08-11,Confirmed
+950444,543154,Large POS Spending,2023-12-31,Cleared
+950445,542444,Unusual Withdrawal,2022-12-03,Cleared
+950446,544313,Large POS Spending,2024-01-07,Investigating
+950447,542050,Large POS Spending,2022-01-29,Confirmed
+950448,523378,Unusual Withdrawal,2022-08-29,Confirmed
+950449,504831,Large POS Spending,2023-10-28,Investigating
+950450,512917,Large POS Spending,2023-08-24,Confirmed
+950451,502676,Large POS Spending,2022-10-14,Confirmed
+950452,528149,Rapid Transfers,2024-06-13,Confirmed
+950453,517400,Unusual Withdrawal,2024-06-23,Investigating
+950454,527802,Rapid Transfers,2023-09-19,Investigating
+950455,522768,Rapid Transfers,2023-11-10,Confirmed
+950456,546767,Rapid Transfers,2022-04-02,Investigating
+950457,525061,Unusual Withdrawal,2023-08-09,Cleared
+950458,535471,Rapid Transfers,2023-10-16,Cleared
+950459,516690,Large POS Spending,2022-03-28,Cleared
+950460,543963,Rapid Transfers,2024-03-05,Investigating
+950461,539839,Rapid Transfers,2024-01-01,Confirmed
+950462,549798,Rapid Transfers,2024-02-06,Confirmed
+950463,503476,Unusual Withdrawal,2024-04-23,Investigating
+950464,547759,Large POS Spending,2022-03-01,Confirmed
+950465,503060,Unusual Withdrawal,2024-07-21,Cleared
+950466,508002,Unusual Withdrawal,2022-02-19,Investigating
+950467,542395,Rapid Transfers,2024-08-05,Investigating
+950468,534675,Large POS Spending,2023-12-30,Cleared
+950469,524994,Large POS Spending,2023-06-22,Confirmed
+950470,533022,Unusual Withdrawal,2025-03-16,Confirmed
+950471,503454,Unusual Withdrawal,2024-03-03,Cleared
+950472,537838,Large POS Spending,2023-06-30,Investigating
+950473,548055,Rapid Transfers,2024-12-08,Investigating
+950474,544705,Rapid Transfers,2024-04-19,Investigating
+950475,548369,Unusual Withdrawal,2022-01-29,Investigating
+950476,522396,Unusual Withdrawal,2022-09-28,Confirmed
+950477,534961,Rapid Transfers,2025-03-15,Cleared
+950478,515470,Large POS Spending,2022-01-26,Cleared
+950479,525404,Rapid Transfers,2024-11-07,Confirmed
+950480,532161,Unusual Withdrawal,2023-07-23,Confirmed
+950481,543029,Large POS Spending,2022-05-15,Investigating
+950482,541373,Large POS Spending,2022-04-25,Cleared
+950483,541932,Rapid Transfers,2024-05-20,Investigating
+950484,546771,Unusual Withdrawal,2022-03-28,Investigating
+950485,543375,Large POS Spending,2023-02-13,Investigating
+950486,546426,Rapid Transfers,2022-07-06,Confirmed
+950487,520191,Large POS Spending,2022-06-29,Investigating
+950488,504005,Unusual Withdrawal,2024-03-10,Confirmed
+950489,531281,Large POS Spending,2024-03-25,Confirmed
+950490,533657,Rapid Transfers,2024-06-08,Investigating
+950491,520525,Large POS Spending,2024-04-23,Investigating
+950492,543573,Unusual Withdrawal,2023-01-19,Investigating
+950493,532563,Large POS Spending,2022-10-29,Investigating
+950494,544179,Large POS Spending,2022-07-10,Investigating
+950495,501762,Large POS Spending,2023-11-06,Investigating
+950496,513254,Large POS Spending,2025-02-14,Investigating
+950497,532902,Rapid Transfers,2024-09-30,Confirmed
+950498,520820,Large POS Spending,2024-01-14,Investigating
+950499,519307,Rapid Transfers,2024-03-15,Investigating
+950500,536083,Large POS Spending,2023-07-01,Confirmed
+950501,507849,Large POS Spending,2022-11-11,Investigating
+950502,506607,Large POS Spending,2023-02-10,Investigating
+950503,502929,Rapid Transfers,2022-05-15,Investigating
+950504,521996,Large POS Spending,2023-02-24,Confirmed
+950505,512281,Large POS Spending,2024-06-25,Confirmed
+950506,512988,Large POS Spending,2022-01-12,Investigating
+950507,537191,Large POS Spending,2025-01-07,Confirmed
+950508,525169,Unusual Withdrawal,2023-10-31,Cleared
+950509,519914,Large POS Spending,2024-11-18,Investigating
+950510,544637,Large POS Spending,2024-08-20,Investigating
+950511,545354,Unusual Withdrawal,2023-10-30,Cleared
+950512,502362,Rapid Transfers,2024-02-23,Confirmed
+950513,506898,Unusual Withdrawal,2022-09-12,Investigating
+950514,519920,Large POS Spending,2022-09-15,Investigating
+950515,514371,Rapid Transfers,2023-05-04,Cleared
+950516,519663,Unusual Withdrawal,2022-10-21,Investigating
+950517,504625,Rapid Transfers,2025-02-15,Investigating
+950518,505299,Rapid Transfers,2024-12-17,Investigating
+950519,543686,Rapid Transfers,2023-08-05,Investigating
+950520,527029,Unusual Withdrawal,2022-08-21,Cleared
+950521,505825,Large POS Spending,2023-06-28,Investigating
+950522,543287,Unusual Withdrawal,2023-04-09,Cleared
+950523,549566,Large POS Spending,2024-02-08,Confirmed
+950524,544719,Unusual Withdrawal,2023-05-09,Confirmed
+950525,500613,Unusual Withdrawal,2024-12-18,Cleared
+950526,534642,Large POS Spending,2025-04-14,Investigating
+950527,507431,Rapid Transfers,2022-12-15,Investigating
+950528,528999,Rapid Transfers,2023-05-10,Investigating
+950529,516445,Rapid Transfers,2023-11-21,Investigating
+950530,547121,Unusual Withdrawal,2025-01-12,Investigating
+950531,502314,Unusual Withdrawal,2022-03-05,Investigating
+950532,520079,Large POS Spending,2023-05-25,Cleared
+950533,529183,Unusual Withdrawal,2022-01-18,Cleared
+950534,531462,Unusual Withdrawal,2023-09-13,Confirmed
+950535,503353,Rapid Transfers,2024-03-14,Investigating
+950536,524401,Unusual Withdrawal,2022-08-04,Confirmed
+950537,524459,Large POS Spending,2022-11-12,Investigating
+950538,524408,Rapid Transfers,2022-01-17,Cleared
+950539,515303,Rapid Transfers,2024-11-27,Cleared
+950540,520008,Rapid Transfers,2024-02-03,Cleared
+950541,507160,Large POS Spending,2024-08-14,Investigating
+950542,534332,Rapid Transfers,2024-11-28,Confirmed
+950543,533066,Large POS Spending,2023-05-10,Confirmed
+950544,532988,Large POS Spending,2022-08-30,Confirmed
+950545,527106,Unusual Withdrawal,2023-05-15,Investigating
+950546,506591,Large POS Spending,2023-07-05,Investigating
+950547,510894,Rapid Transfers,2024-05-18,Investigating
+950548,501391,Large POS Spending,2025-01-07,Investigating
+950549,534108,Rapid Transfers,2022-01-18,Investigating
+950550,501455,Rapid Transfers,2023-12-18,Confirmed
+950551,520882,Unusual Withdrawal,2023-07-29,Cleared
+950552,523131,Unusual Withdrawal,2023-08-03,Investigating
+950553,528556,Unusual Withdrawal,2024-12-22,Confirmed
+950554,527473,Unusual Withdrawal,2024-06-01,Confirmed
+950555,501094,Large POS Spending,2024-07-06,Investigating
+950556,540117,Unusual Withdrawal,2024-09-06,Investigating
+950557,547112,Unusual Withdrawal,2022-01-04,Investigating
+950558,505297,Large POS Spending,2024-01-31,Investigating
+950559,534213,Large POS Spending,2022-02-10,Cleared
+950560,525103,Rapid Transfers,2022-04-05,Confirmed
+950561,531811,Large POS Spending,2022-01-14,Confirmed
+950562,516684,Rapid Transfers,2022-08-29,Investigating
+950563,502563,Large POS Spending,2024-11-23,Investigating
+950564,536132,Large POS Spending,2023-12-21,Confirmed
+950565,528887,Unusual Withdrawal,2024-03-23,Investigating
+950566,520072,Rapid Transfers,2024-01-26,Investigating
+950567,503716,Unusual Withdrawal,2022-08-24,Investigating
+950568,535419,Large POS Spending,2023-06-13,Investigating
+950569,530380,Large POS Spending,2025-02-14,Investigating
+950570,514650,Unusual Withdrawal,2023-08-04,Investigating
+950571,540099,Rapid Transfers,2023-05-03,Investigating
+950572,542432,Unusual Withdrawal,2024-01-08,Cleared
+950573,523632,Unusual Withdrawal,2023-09-15,Confirmed
+950574,522666,Unusual Withdrawal,2024-02-18,Investigating
+950575,531215,Large POS Spending,2024-10-25,Cleared
+950576,514349,Large POS Spending,2022-10-23,Confirmed
+950577,535620,Large POS Spending,2025-01-24,Confirmed
+950578,533093,Large POS Spending,2025-02-15,Investigating
+950579,543225,Unusual Withdrawal,2023-03-24,Confirmed
+950580,500194,Large POS Spending,2023-03-02,Investigating
+950581,530096,Rapid Transfers,2022-06-05,Investigating
+950582,539620,Unusual Withdrawal,2022-03-02,Cleared
+950583,536534,Rapid Transfers,2022-04-24,Confirmed
+950584,528750,Large POS Spending,2025-02-08,Investigating
+950585,505554,Unusual Withdrawal,2022-10-29,Investigating
+950586,522714,Rapid Transfers,2023-08-08,Confirmed
+950587,518026,Rapid Transfers,2023-11-16,Investigating
+950588,516005,Unusual Withdrawal,2024-11-15,Investigating
+950589,501875,Large POS Spending,2025-03-16,Investigating
+950590,530070,Unusual Withdrawal,2022-12-19,Investigating
+950591,534761,Rapid Transfers,2023-09-18,Investigating
+950592,538768,Unusual Withdrawal,2023-08-31,Investigating
+950593,548041,Unusual Withdrawal,2024-05-17,Investigating
+950594,548317,Large POS Spending,2024-06-08,Confirmed
+950595,512063,Rapid Transfers,2024-10-03,Investigating
+950596,508871,Rapid Transfers,2023-11-11,Cleared
+950597,530704,Unusual Withdrawal,2022-03-24,Investigating
+950598,527074,Unusual Withdrawal,2023-05-29,Confirmed
+950599,539858,Large POS Spending,2023-07-24,Investigating
+950600,547273,Rapid Transfers,2024-03-10,Cleared
+950601,527484,Unusual Withdrawal,2024-10-19,Cleared
+950602,523115,Rapid Transfers,2025-03-28,Confirmed
+950603,514879,Large POS Spending,2022-08-30,Investigating
+950604,540053,Large POS Spending,2023-11-27,Investigating
+950605,546141,Unusual Withdrawal,2022-10-20,Cleared
+950606,510605,Rapid Transfers,2022-10-12,Cleared
+950607,521363,Unusual Withdrawal,2022-02-20,Confirmed
+950608,503682,Large POS Spending,2024-10-04,Confirmed
+950609,534390,Large POS Spending,2024-02-07,Investigating
+950610,538220,Unusual Withdrawal,2022-08-14,Confirmed
+950611,549973,Unusual Withdrawal,2022-05-01,Investigating
+950612,519824,Unusual Withdrawal,2024-05-24,Investigating
+950613,504385,Unusual Withdrawal,2024-11-22,Confirmed
+950614,546176,Rapid Transfers,2022-05-17,Cleared
+950615,529319,Large POS Spending,2024-02-02,Investigating
+950616,531702,Large POS Spending,2023-12-02,Cleared
+950617,516666,Large POS Spending,2024-10-02,Confirmed
+950618,523108,Unusual Withdrawal,2023-03-30,Cleared
+950619,523502,Large POS Spending,2022-06-07,Confirmed
+950620,533843,Unusual Withdrawal,2024-03-21,Confirmed
+950621,508053,Unusual Withdrawal,2024-09-04,Cleared
+950622,518526,Large POS Spending,2023-04-22,Investigating
+950623,523024,Unusual Withdrawal,2024-12-14,Confirmed
+950624,531490,Large POS Spending,2024-02-15,Investigating
+950625,528623,Large POS Spending,2024-12-07,Cleared
+950626,526446,Large POS Spending,2023-09-08,Confirmed
+950627,519182,Unusual Withdrawal,2024-12-08,Confirmed
+950628,540817,Large POS Spending,2024-07-31,Confirmed
+950629,508781,Large POS Spending,2022-09-30,Confirmed
+950630,512669,Rapid Transfers,2024-12-04,Confirmed
+950631,535973,Large POS Spending,2022-12-21,Investigating
+950632,534399,Large POS Spending,2024-12-28,Confirmed
+950633,514225,Large POS Spending,2024-06-17,Investigating
+950634,532701,Large POS Spending,2022-07-16,Confirmed
+950635,519308,Unusual Withdrawal,2025-03-21,Investigating
+950636,531110,Unusual Withdrawal,2024-10-25,Confirmed
+950637,506702,Rapid Transfers,2023-05-14,Investigating
+950638,548094,Unusual Withdrawal,2024-11-23,Investigating
+950639,540462,Large POS Spending,2023-04-25,Cleared
+950640,516003,Rapid Transfers,2024-07-17,Cleared
+950641,536300,Large POS Spending,2022-10-10,Investigating
+950642,524160,Rapid Transfers,2023-01-07,Cleared
+950643,507579,Rapid Transfers,2023-11-13,Investigating
+950644,522212,Large POS Spending,2024-02-24,Investigating
+950645,528547,Large POS Spending,2023-03-10,Confirmed
+950646,529305,Unusual Withdrawal,2024-02-03,Confirmed
+950647,521408,Unusual Withdrawal,2023-01-16,Investigating
+950648,549855,Unusual Withdrawal,2025-01-05,Investigating
+950649,522069,Rapid Transfers,2022-01-10,Investigating
+950650,512002,Unusual Withdrawal,2023-05-13,Investigating
+950651,532839,Large POS Spending,2022-06-11,Cleared
+950652,517451,Unusual Withdrawal,2022-01-09,Cleared
+950653,502297,Rapid Transfers,2024-10-14,Investigating
+950654,506840,Rapid Transfers,2022-06-19,Investigating
+950655,514294,Rapid Transfers,2023-11-15,Investigating
+950656,525695,Unusual Withdrawal,2023-03-02,Confirmed
+950657,543206,Unusual Withdrawal,2023-08-25,Confirmed
+950658,500277,Large POS Spending,2024-12-10,Cleared
+950659,504866,Unusual Withdrawal,2024-05-04,Investigating
+950660,502221,Unusual Withdrawal,2024-06-04,Investigating
+950661,513782,Unusual Withdrawal,2022-12-23,Investigating
+950662,540223,Unusual Withdrawal,2023-12-24,Investigating
+950663,541441,Unusual Withdrawal,2024-01-31,Investigating
+950664,526368,Large POS Spending,2023-03-19,Cleared
+950665,502983,Unusual Withdrawal,2022-05-22,Investigating
+950666,528778,Large POS Spending,2025-03-23,Investigating
+950667,526304,Unusual Withdrawal,2022-02-06,Investigating
+950668,545028,Large POS Spending,2022-10-02,Confirmed
+950669,523618,Rapid Transfers,2024-01-18,Investigating
+950670,503496,Unusual Withdrawal,2022-06-06,Investigating
+950671,515774,Large POS Spending,2023-06-12,Investigating
+950672,500315,Rapid Transfers,2024-11-22,Confirmed
+950673,532927,Rapid Transfers,2023-06-03,Confirmed
+950674,531347,Unusual Withdrawal,2024-02-01,Confirmed
+950675,508908,Rapid Transfers,2024-02-03,Confirmed
+950676,516745,Rapid Transfers,2023-08-16,Confirmed
+950677,508645,Unusual Withdrawal,2024-12-17,Investigating
+950678,510848,Large POS Spending,2024-11-01,Investigating
+950679,542475,Unusual Withdrawal,2024-02-09,Confirmed
+950680,549154,Unusual Withdrawal,2023-06-11,Investigating
+950681,519181,Rapid Transfers,2023-02-04,Investigating
+950682,524616,Rapid Transfers,2022-03-29,Confirmed
+950683,504477,Unusual Withdrawal,2023-07-08,Confirmed
+950684,540584,Rapid Transfers,2023-08-20,Investigating
+950685,533001,Rapid Transfers,2024-04-14,Investigating
+950686,509811,Unusual Withdrawal,2024-12-13,Confirmed
+950687,528322,Large POS Spending,2023-10-15,Investigating
+950688,529393,Rapid Transfers,2022-04-09,Investigating
+950689,533007,Rapid Transfers,2025-03-04,Investigating
+950690,505463,Large POS Spending,2022-06-15,Cleared
+950691,545088,Unusual Withdrawal,2022-05-19,Investigating
+950692,535984,Large POS Spending,2023-09-25,Cleared
+950693,538608,Unusual Withdrawal,2023-07-15,Investigating
+950694,548287,Large POS Spending,2022-10-21,Investigating
+950695,525051,Unusual Withdrawal,2023-03-17,Confirmed
+950696,503392,Unusual Withdrawal,2024-05-06,Investigating
+950697,509402,Unusual Withdrawal,2022-12-24,Confirmed
+950698,515594,Large POS Spending,2023-01-09,Cleared
+950699,532830,Unusual Withdrawal,2024-06-01,Investigating
+950700,535386,Rapid Transfers,2022-07-03,Investigating
+950701,521072,Unusual Withdrawal,2024-06-05,Investigating
+950702,532515,Rapid Transfers,2025-02-15,Confirmed
+950703,536861,Large POS Spending,2022-06-21,Confirmed
+950704,549170,Unusual Withdrawal,2023-06-23,Cleared
+950705,519611,Unusual Withdrawal,2023-11-15,Cleared
+950706,541595,Large POS Spending,2022-01-15,Confirmed
+950707,531743,Rapid Transfers,2023-05-17,Investigating
+950708,521465,Unusual Withdrawal,2024-07-18,Confirmed
+950709,517501,Rapid Transfers,2025-01-17,Cleared
+950710,549664,Unusual Withdrawal,2024-04-08,Investigating
+950711,505311,Large POS Spending,2024-01-18,Confirmed
+950712,500998,Rapid Transfers,2022-05-23,Investigating
+950713,512227,Large POS Spending,2025-01-23,Investigating
+950714,540974,Large POS Spending,2022-04-26,Confirmed
+950715,537499,Unusual Withdrawal,2023-04-17,Investigating
+950716,539992,Unusual Withdrawal,2022-09-05,Investigating
+950717,510205,Large POS Spending,2022-12-07,Investigating
+950718,529179,Large POS Spending,2024-03-30,Confirmed
+950719,534369,Large POS Spending,2023-05-06,Confirmed
+950720,526560,Unusual Withdrawal,2025-04-08,Confirmed
+950721,510220,Unusual Withdrawal,2022-10-17,Investigating
+950722,541622,Rapid Transfers,2024-12-05,Confirmed
+950723,526159,Large POS Spending,2023-02-18,Investigating
+950724,545233,Large POS Spending,2022-01-09,Investigating
+950725,509555,Unusual Withdrawal,2023-12-20,Confirmed
+950726,509918,Rapid Transfers,2024-07-15,Investigating
+950727,527711,Large POS Spending,2024-05-08,Investigating
+950728,519067,Unusual Withdrawal,2023-09-09,Cleared
+950729,500790,Unusual Withdrawal,2022-05-09,Confirmed
+950730,547395,Rapid Transfers,2023-06-23,Confirmed
+950731,536207,Rapid Transfers,2023-02-23,Cleared
+950732,547401,Rapid Transfers,2023-01-28,Cleared
+950733,530604,Rapid Transfers,2022-06-20,Confirmed
+950734,529398,Rapid Transfers,2024-04-15,Confirmed
+950735,538173,Large POS Spending,2022-04-18,Investigating
+950736,531887,Unusual Withdrawal,2025-04-09,Confirmed
+950737,534339,Large POS Spending,2023-09-13,Investigating
+950738,542182,Rapid Transfers,2023-03-27,Investigating
+950739,508258,Unusual Withdrawal,2024-01-15,Confirmed
+950740,538057,Rapid Transfers,2024-11-15,Confirmed
+950741,526294,Rapid Transfers,2022-11-05,Investigating
+950742,541991,Unusual Withdrawal,2023-06-08,Cleared
+950743,523167,Rapid Transfers,2023-01-30,Investigating
+950744,503913,Unusual Withdrawal,2023-08-09,Investigating
+950745,545218,Large POS Spending,2023-09-11,Investigating
+950746,524703,Large POS Spending,2025-01-06,Investigating
+950747,506758,Large POS Spending,2022-07-30,Cleared
+950748,537065,Large POS Spending,2022-07-17,Confirmed
+950749,529585,Rapid Transfers,2023-03-31,Investigating
+950750,531430,Large POS Spending,2023-04-27,Investigating
+950751,502223,Large POS Spending,2024-07-27,Confirmed
+950752,547669,Large POS Spending,2024-12-31,Investigating
+950753,544511,Rapid Transfers,2022-10-05,Cleared
+950754,522590,Rapid Transfers,2024-02-10,Investigating
+950755,507887,Large POS Spending,2022-02-10,Investigating
+950756,533797,Unusual Withdrawal,2023-07-17,Investigating
+950757,541901,Large POS Spending,2023-06-27,Investigating
+950758,546015,Rapid Transfers,2025-03-17,Investigating
+950759,520471,Large POS Spending,2022-06-24,Cleared
+950760,506754,Large POS Spending,2024-03-04,Investigating
+950761,549089,Large POS Spending,2022-11-09,Investigating
+950762,508775,Unusual Withdrawal,2025-03-08,Investigating
+950763,502045,Large POS Spending,2023-05-17,Investigating
+950764,507162,Rapid Transfers,2022-07-27,Investigating
+950765,533423,Large POS Spending,2022-02-27,Investigating
+950766,512029,Large POS Spending,2024-12-05,Confirmed
+950767,504265,Rapid Transfers,2023-12-07,Confirmed
+950768,536235,Large POS Spending,2022-04-23,Investigating
+950769,530071,Unusual Withdrawal,2024-08-10,Investigating
+950770,515828,Unusual Withdrawal,2024-02-18,Cleared
+950771,510513,Rapid Transfers,2022-03-04,Investigating
+950772,519318,Rapid Transfers,2024-12-20,Investigating
+950773,540255,Rapid Transfers,2024-03-03,Investigating
+950774,510264,Unusual Withdrawal,2022-07-05,Confirmed
+950775,523256,Rapid Transfers,2025-04-02,Investigating
+950776,510950,Rapid Transfers,2024-06-09,Confirmed
+950777,524069,Large POS Spending,2023-02-01,Investigating
+950778,525116,Unusual Withdrawal,2024-02-17,Investigating
+950779,535465,Large POS Spending,2022-02-09,Cleared
+950780,522328,Unusual Withdrawal,2023-09-17,Investigating
+950781,543222,Rapid Transfers,2022-03-20,Confirmed
+950782,520103,Large POS Spending,2023-04-18,Investigating
+950783,501926,Unusual Withdrawal,2024-09-20,Confirmed
+950784,516369,Large POS Spending,2023-07-06,Cleared
+950785,538666,Large POS Spending,2022-04-07,Confirmed
+950786,515740,Large POS Spending,2024-08-14,Confirmed
+950787,548519,Unusual Withdrawal,2022-05-12,Confirmed
+950788,531424,Unusual Withdrawal,2024-05-07,Confirmed
+950789,519534,Rapid Transfers,2023-10-10,Investigating
+950790,515622,Rapid Transfers,2022-09-20,Investigating
+950791,522428,Unusual Withdrawal,2023-01-13,Confirmed
+950792,542682,Rapid Transfers,2024-03-19,Confirmed
+950793,527995,Unusual Withdrawal,2024-04-10,Confirmed
+950794,533097,Rapid Transfers,2022-07-01,Investigating
+950795,515692,Unusual Withdrawal,2023-08-31,Investigating
+950796,546421,Large POS Spending,2025-03-13,Confirmed
+950797,541342,Large POS Spending,2024-02-05,Investigating
+950798,501243,Large POS Spending,2022-04-08,Investigating
+950799,504892,Unusual Withdrawal,2022-01-21,Cleared
+950800,500177,Large POS Spending,2024-01-19,Confirmed
+950801,509268,Rapid Transfers,2023-01-13,Investigating
+950802,542104,Large POS Spending,2023-09-27,Investigating
+950803,525570,Unusual Withdrawal,2023-09-18,Confirmed
+950804,522319,Rapid Transfers,2023-05-13,Investigating
+950805,511108,Rapid Transfers,2024-07-20,Investigating
+950806,540342,Large POS Spending,2025-03-10,Investigating
+950807,540700,Large POS Spending,2022-03-01,Investigating
+950808,507027,Large POS Spending,2022-10-01,Confirmed
+950809,534456,Large POS Spending,2024-07-07,Confirmed
+950810,514604,Large POS Spending,2023-07-22,Cleared
+950811,547182,Unusual Withdrawal,2022-09-24,Investigating
+950812,543745,Rapid Transfers,2022-06-13,Investigating
+950813,527572,Rapid Transfers,2024-08-12,Confirmed
+950814,516803,Rapid Transfers,2022-05-06,Cleared
+950815,522948,Rapid Transfers,2024-07-13,Investigating
+950816,509046,Unusual Withdrawal,2023-10-11,Investigating
+950817,532432,Large POS Spending,2023-07-01,Confirmed
+950818,504395,Large POS Spending,2024-02-11,Confirmed
+950819,526874,Large POS Spending,2023-11-29,Investigating
+950820,544966,Large POS Spending,2022-05-01,Investigating
+950821,525600,Unusual Withdrawal,2022-04-12,Investigating
+950822,535231,Large POS Spending,2022-07-28,Investigating
+950823,517383,Large POS Spending,2022-02-13,Investigating
+950824,534477,Rapid Transfers,2022-09-12,Investigating
+950825,500188,Unusual Withdrawal,2022-08-30,Confirmed
+950826,509624,Rapid Transfers,2023-01-13,Investigating
+950827,521078,Large POS Spending,2023-12-17,Cleared
+950828,500323,Large POS Spending,2022-06-18,Cleared
+950829,506936,Rapid Transfers,2024-11-25,Confirmed
+950830,516332,Large POS Spending,2023-01-01,Confirmed
+950831,540067,Rapid Transfers,2022-03-31,Cleared
+950832,544794,Rapid Transfers,2023-09-17,Confirmed
+950833,528708,Unusual Withdrawal,2023-04-11,Investigating
+950834,543560,Unusual Withdrawal,2024-11-11,Confirmed
+950835,530665,Large POS Spending,2024-12-24,Investigating
+950836,529510,Rapid Transfers,2023-08-03,Investigating
+950837,538075,Unusual Withdrawal,2022-12-27,Cleared
+950838,549122,Rapid Transfers,2022-10-07,Investigating
+950839,522271,Rapid Transfers,2024-07-01,Confirmed
+950840,508151,Unusual Withdrawal,2023-10-18,Cleared
+950841,546572,Rapid Transfers,2023-07-02,Confirmed
+950842,529096,Unusual Withdrawal,2023-01-10,Confirmed
+950843,519686,Large POS Spending,2023-09-20,Confirmed
+950844,525950,Unusual Withdrawal,2022-04-02,Confirmed
+950845,514762,Rapid Transfers,2023-06-04,Investigating
+950846,532331,Large POS Spending,2022-10-14,Investigating
+950847,508059,Rapid Transfers,2023-11-12,Investigating
+950848,538885,Rapid Transfers,2023-02-01,Investigating
+950849,521533,Rapid Transfers,2022-02-10,Cleared
+950850,515382,Large POS Spending,2022-06-05,Investigating
+950851,530438,Rapid Transfers,2023-07-25,Investigating
+950852,538207,Unusual Withdrawal,2024-08-04,Investigating
+950853,539907,Large POS Spending,2023-01-20,Investigating
+950854,545949,Unusual Withdrawal,2025-04-04,Confirmed
+950855,517455,Large POS Spending,2025-01-04,Investigating
+950856,544668,Large POS Spending,2023-12-30,Investigating
+950857,510360,Rapid Transfers,2023-12-04,Cleared
+950858,529927,Unusual Withdrawal,2023-01-04,Investigating
+950859,525333,Unusual Withdrawal,2022-12-28,Investigating
+950860,513120,Rapid Transfers,2023-11-15,Investigating
+950861,531765,Unusual Withdrawal,2023-07-08,Confirmed
+950862,526727,Large POS Spending,2022-04-04,Cleared
+950863,514539,Unusual Withdrawal,2022-02-19,Investigating
+950864,503802,Rapid Transfers,2024-02-27,Cleared
+950865,506393,Large POS Spending,2024-04-07,Cleared
+950866,525582,Rapid Transfers,2024-03-12,Confirmed
+950867,501350,Rapid Transfers,2023-09-02,Confirmed
+950868,512220,Unusual Withdrawal,2022-11-01,Confirmed
+950869,518691,Large POS Spending,2022-10-19,Confirmed
+950870,535526,Unusual Withdrawal,2023-03-01,Investigating
+950871,549699,Large POS Spending,2024-12-29,Cleared
+950872,532070,Large POS Spending,2022-03-06,Confirmed
+950873,540260,Large POS Spending,2023-11-02,Cleared
+950874,520918,Rapid Transfers,2023-09-29,Cleared
+950875,538894,Rapid Transfers,2023-07-03,Confirmed
+950876,513746,Rapid Transfers,2022-04-04,Investigating
+950877,519514,Rapid Transfers,2023-04-28,Confirmed
+950878,533554,Rapid Transfers,2022-12-21,Confirmed
+950879,537754,Rapid Transfers,2024-08-02,Investigating
+950880,535408,Unusual Withdrawal,2024-09-22,Confirmed
+950881,508928,Unusual Withdrawal,2024-02-13,Cleared
+950882,524157,Rapid Transfers,2022-05-29,Confirmed
+950883,522833,Large POS Spending,2024-10-01,Confirmed
+950884,548793,Unusual Withdrawal,2024-08-10,Investigating
+950885,506481,Rapid Transfers,2024-02-02,Investigating
+950886,508057,Large POS Spending,2023-12-06,Investigating
+950887,536946,Unusual Withdrawal,2023-05-14,Confirmed
+950888,522493,Unusual Withdrawal,2022-06-30,Confirmed
+950889,523971,Rapid Transfers,2024-12-22,Investigating
+950890,503138,Large POS Spending,2023-04-28,Investigating
+950891,528835,Large POS Spending,2024-12-16,Confirmed
+950892,519150,Unusual Withdrawal,2024-06-06,Investigating
+950893,506449,Rapid Transfers,2022-02-15,Cleared
+950894,516643,Unusual Withdrawal,2022-06-17,Cleared
+950895,541880,Unusual Withdrawal,2024-12-03,Investigating
+950896,514320,Large POS Spending,2022-04-13,Cleared
+950897,546568,Unusual Withdrawal,2024-11-15,Investigating
+950898,540980,Large POS Spending,2022-04-27,Cleared
+950899,535338,Rapid Transfers,2022-03-20,Confirmed
+950900,522500,Unusual Withdrawal,2022-01-12,Confirmed
+950901,525572,Rapid Transfers,2024-06-16,Investigating
+950902,506955,Unusual Withdrawal,2022-05-16,Confirmed
+950903,512876,Large POS Spending,2022-07-18,Cleared
+950904,507687,Unusual Withdrawal,2024-10-17,Investigating
+950905,516254,Large POS Spending,2025-01-24,Confirmed
+950906,530476,Rapid Transfers,2022-09-22,Cleared
+950907,511490,Unusual Withdrawal,2023-08-24,Investigating
+950908,508486,Large POS Spending,2022-06-23,Investigating
+950909,508605,Large POS Spending,2024-12-09,Cleared
+950910,547943,Unusual Withdrawal,2022-01-12,Investigating
+950911,520464,Unusual Withdrawal,2022-01-06,Investigating
+950912,505731,Large POS Spending,2023-02-18,Cleared
+950913,518021,Rapid Transfers,2022-12-03,Cleared
+950914,532881,Large POS Spending,2025-02-13,Confirmed
+950915,507228,Large POS Spending,2025-02-01,Confirmed
+950916,509438,Rapid Transfers,2023-11-17,Investigating
+950917,505110,Large POS Spending,2022-11-09,Cleared
+950918,514861,Rapid Transfers,2024-02-13,Confirmed
+950919,517230,Large POS Spending,2022-01-10,Cleared
+950920,518018,Large POS Spending,2024-07-04,Confirmed
+950921,513587,Rapid Transfers,2024-05-28,Investigating
+950922,544942,Rapid Transfers,2024-01-29,Investigating
+950923,510090,Rapid Transfers,2023-03-31,Confirmed
+950924,542369,Rapid Transfers,2025-02-24,Confirmed
+950925,522167,Large POS Spending,2024-07-01,Investigating
+950926,548109,Unusual Withdrawal,2023-12-29,Investigating
+950927,535567,Rapid Transfers,2023-02-14,Investigating
+950928,521079,Large POS Spending,2024-10-31,Investigating
+950929,540932,Unusual Withdrawal,2024-03-02,Investigating
+950930,538280,Unusual Withdrawal,2023-12-08,Cleared
+950931,510338,Unusual Withdrawal,2024-01-13,Confirmed
+950932,548576,Large POS Spending,2022-05-16,Investigating
+950933,544779,Unusual Withdrawal,2022-04-06,Confirmed
+950934,520637,Rapid Transfers,2023-03-09,Cleared
+950935,521894,Large POS Spending,2024-07-05,Cleared
+950936,532140,Rapid Transfers,2022-02-04,Investigating
+950937,523358,Large POS Spending,2022-12-12,Cleared
+950938,520282,Large POS Spending,2023-06-13,Investigating
+950939,505785,Rapid Transfers,2025-03-01,Investigating
+950940,501147,Large POS Spending,2022-11-19,Investigating
+950941,534964,Unusual Withdrawal,2024-03-03,Confirmed
+950942,513312,Large POS Spending,2022-02-03,Investigating
+950943,547479,Large POS Spending,2022-11-11,Confirmed
+950944,519747,Large POS Spending,2022-09-22,Investigating
+950945,511416,Large POS Spending,2023-05-05,Cleared
+950946,503320,Large POS Spending,2022-12-28,Confirmed
+950947,509373,Rapid Transfers,2023-10-17,Investigating
+950948,501053,Rapid Transfers,2023-09-10,Confirmed
+950949,511409,Rapid Transfers,2024-04-17,Investigating
+950950,538344,Unusual Withdrawal,2023-12-02,Investigating
+950951,519002,Unusual Withdrawal,2023-11-12,Investigating
+950952,541546,Unusual Withdrawal,2023-02-21,Investigating
+950953,546716,Large POS Spending,2023-01-16,Confirmed
+950954,519745,Unusual Withdrawal,2022-10-17,Investigating
+950955,514337,Rapid Transfers,2022-11-16,Confirmed
+950956,505852,Rapid Transfers,2024-11-07,Confirmed
+950957,501909,Rapid Transfers,2023-12-18,Confirmed
+950958,505169,Rapid Transfers,2022-02-28,Investigating
+950959,527480,Rapid Transfers,2025-02-06,Investigating
+950960,501217,Large POS Spending,2024-07-01,Confirmed
+950961,514020,Unusual Withdrawal,2025-04-12,Investigating
+950962,547351,Large POS Spending,2024-07-02,Confirmed
+950963,529503,Rapid Transfers,2023-11-03,Confirmed
+950964,538423,Rapid Transfers,2022-03-28,Investigating
+950965,512484,Unusual Withdrawal,2022-07-30,Confirmed
+950966,510396,Unusual Withdrawal,2022-10-18,Investigating
+950967,518097,Rapid Transfers,2023-08-22,Investigating
+950968,507462,Large POS Spending,2024-01-20,Cleared
+950969,530001,Unusual Withdrawal,2022-08-08,Confirmed
+950970,515163,Large POS Spending,2023-03-03,Investigating
+950971,523972,Rapid Transfers,2023-04-28,Investigating
+950972,542525,Large POS Spending,2024-02-13,Investigating
+950973,533893,Large POS Spending,2022-04-15,Investigating
+950974,529307,Large POS Spending,2023-10-14,Investigating
+950975,526112,Large POS Spending,2023-03-31,Investigating
+950976,518963,Large POS Spending,2022-10-06,Confirmed
+950977,547972,Large POS Spending,2024-09-22,Confirmed
+950978,546118,Large POS Spending,2023-09-17,Investigating
+950979,501113,Unusual Withdrawal,2022-05-28,Investigating
+950980,534967,Rapid Transfers,2022-04-28,Confirmed
+950981,534593,Rapid Transfers,2025-01-24,Confirmed
+950982,536488,Rapid Transfers,2023-12-07,Confirmed
+950983,531518,Large POS Spending,2023-03-15,Confirmed
+950984,543991,Unusual Withdrawal,2024-06-18,Investigating
+950985,530901,Large POS Spending,2024-04-06,Cleared
+950986,510741,Rapid Transfers,2024-05-18,Investigating
+950987,509199,Unusual Withdrawal,2022-10-31,Confirmed
+950988,500777,Large POS Spending,2022-03-24,Investigating
+950989,522729,Rapid Transfers,2024-08-16,Investigating
+950990,507784,Unusual Withdrawal,2022-12-01,Confirmed
+950991,507619,Rapid Transfers,2024-02-28,Investigating
+950992,537251,Unusual Withdrawal,2023-03-16,Confirmed
+950993,535092,Rapid Transfers,2023-02-05,Cleared
+950994,541328,Unusual Withdrawal,2024-11-24,Cleared
+950995,510564,Large POS Spending,2022-02-28,Investigating
+950996,510325,Unusual Withdrawal,2023-04-03,Cleared
+950997,547299,Rapid Transfers,2023-03-06,Investigating
+950998,517818,Large POS Spending,2022-07-17,Investigating
+950999,513763,Rapid Transfers,2024-07-18,Investigating
+951000,539225,Unusual Withdrawal,2023-04-26,Cleared
+951001,532877,Rapid Transfers,2023-02-10,Investigating
+951002,529802,Unusual Withdrawal,2023-08-18,Confirmed
+951003,548608,Large POS Spending,2024-10-27,Investigating
+951004,545348,Rapid Transfers,2023-09-29,Investigating
+951005,533205,Rapid Transfers,2025-01-28,Investigating
+951006,530923,Rapid Transfers,2023-01-01,Investigating
+951007,533683,Rapid Transfers,2025-04-11,Confirmed
+951008,507167,Large POS Spending,2022-02-19,Cleared
+951009,513200,Large POS Spending,2025-01-03,Investigating
+951010,519784,Rapid Transfers,2023-05-19,Investigating
+951011,535701,Rapid Transfers,2023-09-03,Investigating
+951012,506970,Unusual Withdrawal,2023-01-24,Investigating
+951013,547927,Unusual Withdrawal,2024-06-17,Investigating
+951014,522114,Unusual Withdrawal,2025-04-07,Investigating
+951015,529890,Rapid Transfers,2023-07-06,Investigating
+951016,515447,Rapid Transfers,2024-05-24,Investigating
+951017,502325,Unusual Withdrawal,2023-10-22,Confirmed
+951018,506177,Large POS Spending,2025-03-24,Investigating
+951019,509718,Rapid Transfers,2023-06-27,Confirmed
+951020,545194,Large POS Spending,2022-12-08,Investigating
+951021,503172,Unusual Withdrawal,2022-07-04,Confirmed
+951022,510976,Rapid Transfers,2024-10-21,Investigating
+951023,514079,Unusual Withdrawal,2023-07-20,Investigating
+951024,521225,Large POS Spending,2022-02-19,Cleared
+951025,502773,Rapid Transfers,2024-09-19,Investigating
+951026,511805,Large POS Spending,2024-10-22,Confirmed
+951027,540470,Unusual Withdrawal,2025-03-11,Confirmed
+951028,532296,Large POS Spending,2022-08-30,Cleared
+951029,548694,Large POS Spending,2022-12-09,Investigating
+951030,516996,Large POS Spending,2022-09-24,Confirmed
+951031,524440,Rapid Transfers,2024-03-26,Investigating
+951032,542843,Rapid Transfers,2023-07-22,Investigating
+951033,541227,Rapid Transfers,2024-11-02,Confirmed
+951034,518708,Rapid Transfers,2023-06-17,Investigating
+951035,523305,Unusual Withdrawal,2023-08-03,Confirmed
+951036,513486,Rapid Transfers,2024-12-04,Confirmed
+951037,500093,Large POS Spending,2024-11-17,Cleared
+951038,522880,Large POS Spending,2022-10-12,Investigating
+951039,545581,Rapid Transfers,2022-04-13,Cleared
+951040,514754,Unusual Withdrawal,2022-12-23,Investigating
+951041,518631,Rapid Transfers,2025-03-24,Investigating
+951042,506824,Rapid Transfers,2025-04-13,Investigating
+951043,511065,Large POS Spending,2022-07-09,Investigating
+951044,546906,Large POS Spending,2022-08-03,Confirmed
+951045,544403,Large POS Spending,2022-04-07,Investigating
+951046,511732,Unusual Withdrawal,2025-04-07,Investigating
+951047,541137,Large POS Spending,2022-09-01,Cleared
+951048,541789,Large POS Spending,2023-05-13,Investigating
+951049,544751,Large POS Spending,2025-02-24,Investigating
+951050,537597,Large POS Spending,2025-04-03,Investigating
+951051,512838,Unusual Withdrawal,2024-09-15,Investigating
+951052,526244,Rapid Transfers,2022-10-21,Confirmed
+951053,518056,Unusual Withdrawal,2023-12-04,Cleared
+951054,515746,Unusual Withdrawal,2025-04-11,Confirmed
+951055,502248,Unusual Withdrawal,2022-03-12,Investigating
+951056,503889,Large POS Spending,2024-11-23,Confirmed
+951057,540156,Rapid Transfers,2023-03-18,Investigating
+951058,542807,Large POS Spending,2023-02-23,Investigating
+951059,532172,Rapid Transfers,2023-01-29,Investigating
+951060,544184,Rapid Transfers,2022-06-23,Investigating
+951061,536448,Large POS Spending,2022-01-14,Confirmed
+951062,546587,Unusual Withdrawal,2022-07-12,Cleared
+951063,540898,Unusual Withdrawal,2025-03-08,Investigating
+951064,519390,Large POS Spending,2023-04-05,Confirmed
+951065,527398,Large POS Spending,2023-11-24,Investigating
+951066,511746,Unusual Withdrawal,2022-02-10,Confirmed
+951067,500343,Unusual Withdrawal,2022-03-28,Confirmed
+951068,525550,Large POS Spending,2024-09-23,Cleared
+951069,539781,Unusual Withdrawal,2022-09-16,Investigating
+951070,537722,Large POS Spending,2023-04-27,Confirmed
+951071,512231,Large POS Spending,2024-06-24,Investigating
+951072,548619,Large POS Spending,2022-05-27,Investigating
+951073,541450,Rapid Transfers,2022-09-18,Investigating
+951074,539201,Rapid Transfers,2024-10-25,Cleared
+951075,530211,Unusual Withdrawal,2024-04-08,Cleared
+951076,547664,Rapid Transfers,2023-01-31,Investigating
+951077,517933,Unusual Withdrawal,2024-05-31,Investigating
+951078,522415,Unusual Withdrawal,2024-06-11,Confirmed
+951079,545954,Large POS Spending,2023-03-17,Investigating
+951080,549518,Unusual Withdrawal,2024-10-09,Confirmed
+951081,530212,Rapid Transfers,2024-11-17,Investigating
+951082,528583,Rapid Transfers,2024-07-05,Investigating
+951083,516988,Rapid Transfers,2023-01-06,Investigating
+951084,525939,Large POS Spending,2022-07-03,Cleared
+951085,510585,Rapid Transfers,2024-07-18,Confirmed
+951086,538098,Large POS Spending,2023-04-05,Confirmed
+951087,548605,Large POS Spending,2024-12-13,Investigating
+951088,548814,Large POS Spending,2022-02-08,Investigating
+951089,534147,Large POS Spending,2023-04-09,Confirmed
+951090,523715,Unusual Withdrawal,2024-07-22,Investigating
+951091,541696,Unusual Withdrawal,2024-08-17,Confirmed
+951092,519143,Unusual Withdrawal,2022-11-19,Confirmed
+951093,508813,Large POS Spending,2023-03-12,Confirmed
+951094,509524,Rapid Transfers,2022-08-27,Investigating
+951095,518945,Large POS Spending,2023-01-03,Investigating
+951096,514222,Rapid Transfers,2022-06-02,Confirmed
+951097,522064,Rapid Transfers,2023-01-01,Investigating
+951098,514462,Rapid Transfers,2024-07-23,Cleared
+951099,518515,Large POS Spending,2022-12-02,Confirmed
+951100,537243,Unusual Withdrawal,2023-01-15,Investigating
+951101,525871,Unusual Withdrawal,2023-12-22,Investigating
+951102,530695,Rapid Transfers,2024-05-27,Confirmed
+951103,529172,Large POS Spending,2022-06-08,Confirmed
+951104,523616,Large POS Spending,2023-01-06,Confirmed
+951105,510077,Large POS Spending,2022-06-23,Confirmed
+951106,504045,Unusual Withdrawal,2024-05-16,Investigating
+951107,519092,Large POS Spending,2025-01-17,Investigating
+951108,514542,Unusual Withdrawal,2024-08-29,Confirmed
+951109,544685,Unusual Withdrawal,2023-01-07,Investigating
+951110,523296,Rapid Transfers,2023-07-27,Investigating
+951111,503532,Large POS Spending,2024-09-05,Confirmed
+951112,515838,Unusual Withdrawal,2023-11-09,Investigating
+951113,529192,Unusual Withdrawal,2023-07-02,Confirmed
+951114,532717,Unusual Withdrawal,2022-10-22,Investigating
+951115,546685,Unusual Withdrawal,2023-07-02,Confirmed
+951116,523414,Large POS Spending,2022-07-31,Investigating
+951117,506248,Large POS Spending,2024-05-31,Investigating
+951118,531406,Unusual Withdrawal,2024-05-12,Cleared
+951119,521329,Rapid Transfers,2024-10-25,Investigating
+951120,509087,Unusual Withdrawal,2022-05-26,Confirmed
+951121,538926,Large POS Spending,2022-12-26,Confirmed
+951122,528730,Large POS Spending,2023-06-23,Confirmed
+951123,534745,Large POS Spending,2023-09-11,Cleared
+951124,514867,Rapid Transfers,2022-03-11,Investigating
+951125,544886,Large POS Spending,2023-08-27,Cleared
+951126,504120,Rapid Transfers,2022-10-04,Investigating
+951127,544320,Rapid Transfers,2023-11-21,Cleared
+951128,531573,Unusual Withdrawal,2024-09-18,Cleared
+951129,500290,Unusual Withdrawal,2022-02-10,Cleared
+951130,529805,Rapid Transfers,2022-06-14,Cleared
+951131,540563,Large POS Spending,2023-07-21,Cleared
+951132,531073,Large POS Spending,2024-10-11,Investigating
+951133,505004,Large POS Spending,2024-04-29,Investigating
+951134,541232,Large POS Spending,2023-11-25,Cleared
+951135,511757,Rapid Transfers,2023-06-22,Cleared
+951136,547263,Unusual Withdrawal,2023-10-08,Investigating
+951137,549968,Unusual Withdrawal,2025-03-27,Investigating
+951138,547814,Unusual Withdrawal,2024-01-30,Investigating
+951139,515015,Unusual Withdrawal,2022-02-22,Confirmed
+951140,518786,Unusual Withdrawal,2022-07-05,Investigating
+951141,515142,Rapid Transfers,2023-01-27,Cleared
+951142,535118,Large POS Spending,2023-07-25,Investigating
+951143,542312,Large POS Spending,2025-04-07,Confirmed
+951144,515952,Unusual Withdrawal,2024-08-19,Confirmed
+951145,527426,Rapid Transfers,2022-01-09,Investigating
+951146,542447,Unusual Withdrawal,2023-05-05,Confirmed
+951147,528045,Large POS Spending,2023-08-30,Confirmed
+951148,516217,Unusual Withdrawal,2024-02-02,Investigating
+951149,523610,Rapid Transfers,2022-07-11,Investigating
+951150,504739,Unusual Withdrawal,2023-03-19,Confirmed
+951151,534695,Large POS Spending,2024-03-29,Confirmed
+951152,530318,Rapid Transfers,2022-06-11,Investigating
+951153,548046,Large POS Spending,2025-03-19,Investigating
+951154,533372,Rapid Transfers,2024-12-11,Cleared
+951155,549829,Unusual Withdrawal,2024-11-02,Cleared
+951156,503017,Unusual Withdrawal,2023-01-29,Investigating
+951157,533493,Unusual Withdrawal,2023-06-05,Confirmed
+951158,503279,Unusual Withdrawal,2023-06-20,Cleared
+951159,537946,Large POS Spending,2025-02-09,Investigating
+951160,524329,Unusual Withdrawal,2022-02-07,Confirmed
+951161,500977,Unusual Withdrawal,2024-10-26,Confirmed
+951162,548119,Unusual Withdrawal,2022-03-20,Investigating
+951163,540060,Large POS Spending,2023-04-12,Investigating
+951164,536447,Large POS Spending,2024-12-09,Cleared
+951165,518170,Rapid Transfers,2022-08-25,Confirmed
+951166,531641,Large POS Spending,2022-05-16,Confirmed
+951167,518833,Rapid Transfers,2023-01-18,Cleared
+951168,509955,Rapid Transfers,2024-07-30,Investigating
+951169,529271,Large POS Spending,2024-06-28,Investigating
+951170,542584,Rapid Transfers,2025-02-21,Confirmed
+951171,545456,Large POS Spending,2022-01-17,Confirmed
+951172,516878,Rapid Transfers,2025-02-11,Confirmed
+951173,531480,Unusual Withdrawal,2024-08-29,Investigating
+951174,519530,Large POS Spending,2024-02-27,Confirmed
+951175,547281,Rapid Transfers,2023-03-18,Investigating
+951176,534247,Rapid Transfers,2022-10-29,Investigating
+951177,506368,Unusual Withdrawal,2024-07-07,Investigating
+951178,549903,Rapid Transfers,2023-08-04,Confirmed
+951179,526002,Large POS Spending,2023-04-09,Confirmed
+951180,509044,Unusual Withdrawal,2024-05-07,Investigating
+951181,519890,Rapid Transfers,2024-08-24,Investigating
+951182,529007,Unusual Withdrawal,2022-03-16,Confirmed
+951183,536212,Unusual Withdrawal,2023-01-25,Confirmed
+951184,541308,Rapid Transfers,2025-03-25,Cleared
+951185,524503,Rapid Transfers,2024-05-03,Investigating
+951186,520780,Unusual Withdrawal,2022-07-30,Cleared
+951187,542867,Large POS Spending,2022-02-04,Cleared
+951188,525684,Rapid Transfers,2023-06-27,Investigating
+951189,512699,Rapid Transfers,2022-02-18,Cleared
+951190,524896,Rapid Transfers,2023-06-16,Confirmed
+951191,508018,Unusual Withdrawal,2024-01-04,Confirmed
+951192,524301,Large POS Spending,2023-03-25,Confirmed
+951193,536610,Large POS Spending,2022-08-15,Investigating
+951194,517008,Rapid Transfers,2024-08-23,Cleared
+951195,517198,Rapid Transfers,2023-05-16,Investigating
+951196,530427,Large POS Spending,2023-06-01,Confirmed
+951197,518745,Rapid Transfers,2022-11-30,Cleared
+951198,533412,Large POS Spending,2022-01-22,Cleared
+951199,512733,Rapid Transfers,2023-12-17,Investigating
+951200,500327,Unusual Withdrawal,2022-09-11,Investigating
+951201,540729,Large POS Spending,2022-11-25,Confirmed
+951202,540837,Large POS Spending,2022-10-26,Cleared
+951203,515794,Unusual Withdrawal,2022-01-18,Investigating
+951204,533385,Large POS Spending,2023-06-30,Investigating
+951205,542396,Rapid Transfers,2023-09-10,Investigating
+951206,549210,Large POS Spending,2023-02-10,Investigating
+951207,548182,Large POS Spending,2024-05-05,Confirmed
+951208,524490,Large POS Spending,2024-09-07,Investigating
+951209,543314,Rapid Transfers,2023-03-01,Confirmed
+951210,514449,Unusual Withdrawal,2024-12-24,Cleared
+951211,535682,Rapid Transfers,2024-11-28,Investigating
+951212,546958,Large POS Spending,2023-06-26,Confirmed
+951213,542657,Unusual Withdrawal,2024-07-30,Investigating
+951214,509859,Unusual Withdrawal,2024-06-11,Investigating
+951215,537564,Large POS Spending,2024-08-01,Investigating
+951216,535731,Rapid Transfers,2025-04-03,Confirmed
+951217,538522,Rapid Transfers,2024-06-25,Investigating
+951218,504364,Unusual Withdrawal,2025-01-09,Investigating
+951219,532143,Unusual Withdrawal,2022-06-03,Investigating
+951220,544906,Large POS Spending,2025-04-07,Investigating
+951221,538409,Large POS Spending,2023-01-09,Investigating
+951222,505532,Rapid Transfers,2022-02-09,Confirmed
+951223,516378,Rapid Transfers,2022-12-11,Confirmed
+951224,506428,Large POS Spending,2023-02-01,Investigating
+951225,538758,Rapid Transfers,2023-12-18,Investigating
+951226,520037,Unusual Withdrawal,2025-01-10,Cleared
+951227,526587,Rapid Transfers,2025-01-13,Confirmed
+951228,546008,Large POS Spending,2022-11-07,Investigating
+951229,537552,Large POS Spending,2022-06-01,Investigating
+951230,501654,Large POS Spending,2022-07-28,Investigating
+951231,517961,Rapid Transfers,2022-10-24,Investigating
+951232,542888,Rapid Transfers,2023-01-28,Confirmed
+951233,507743,Large POS Spending,2023-10-07,Investigating
+951234,549110,Large POS Spending,2024-11-03,Investigating
+951235,514311,Large POS Spending,2023-02-15,Investigating
+951236,521726,Rapid Transfers,2024-08-04,Confirmed
+951237,545782,Unusual Withdrawal,2022-08-30,Investigating
+951238,522449,Rapid Transfers,2023-11-24,Investigating
+951239,543609,Large POS Spending,2024-05-08,Confirmed
+951240,520129,Large POS Spending,2023-03-09,Investigating
+951241,536698,Unusual Withdrawal,2024-02-24,Cleared
+951242,528002,Unusual Withdrawal,2023-06-27,Investigating
+951243,503358,Large POS Spending,2024-09-08,Cleared
+951244,534346,Unusual Withdrawal,2024-09-28,Investigating
+951245,525340,Large POS Spending,2023-06-10,Cleared
+951246,539311,Unusual Withdrawal,2024-09-30,Confirmed
+951247,510158,Unusual Withdrawal,2024-08-28,Investigating
+951248,522116,Large POS Spending,2022-06-04,Investigating
+951249,512866,Large POS Spending,2023-05-31,Investigating
+951250,524759,Large POS Spending,2022-02-24,Confirmed
+951251,517618,Rapid Transfers,2023-03-05,Investigating
+951252,525301,Large POS Spending,2024-05-08,Investigating
+951253,541640,Rapid Transfers,2022-06-19,Confirmed
+951254,524198,Rapid Transfers,2024-05-16,Confirmed
+951255,529264,Large POS Spending,2024-06-10,Investigating
+951256,526791,Unusual Withdrawal,2023-12-23,Confirmed
+951257,523353,Rapid Transfers,2023-03-31,Investigating
+951258,526037,Unusual Withdrawal,2022-11-11,Cleared
+951259,518424,Large POS Spending,2024-07-10,Investigating
+951260,522460,Large POS Spending,2024-12-23,Investigating
+951261,549737,Unusual Withdrawal,2024-09-28,Cleared
+951262,525359,Rapid Transfers,2023-11-12,Confirmed
+951263,517600,Rapid Transfers,2023-09-18,Investigating
+951264,521818,Unusual Withdrawal,2022-07-05,Confirmed
+951265,528719,Large POS Spending,2024-09-13,Cleared
+951266,501936,Unusual Withdrawal,2023-08-15,Cleared
+951267,546886,Large POS Spending,2024-03-12,Cleared
+951268,541555,Rapid Transfers,2023-11-19,Investigating
+951269,513928,Unusual Withdrawal,2025-03-07,Investigating
+951270,509237,Large POS Spending,2023-03-02,Confirmed
+951271,535278,Unusual Withdrawal,2024-05-22,Confirmed
+951272,511571,Rapid Transfers,2023-04-26,Investigating
+951273,506125,Large POS Spending,2022-01-12,Investigating
+951274,509596,Unusual Withdrawal,2024-03-14,Confirmed
+951275,523790,Large POS Spending,2023-10-08,Cleared
+951276,528580,Unusual Withdrawal,2024-10-22,Confirmed
+951277,513958,Unusual Withdrawal,2023-04-20,Investigating
+951278,531670,Unusual Withdrawal,2023-07-28,Cleared
+951279,523332,Unusual Withdrawal,2022-08-03,Investigating
+951280,537639,Rapid Transfers,2024-01-02,Investigating
+951281,538590,Large POS Spending,2023-01-20,Confirmed
+951282,507327,Large POS Spending,2025-03-11,Confirmed
+951283,541997,Unusual Withdrawal,2022-09-21,Investigating
+951284,546269,Large POS Spending,2024-09-21,Confirmed
+951285,523087,Rapid Transfers,2023-06-01,Confirmed
+951286,536629,Unusual Withdrawal,2025-01-08,Investigating
+951287,508725,Large POS Spending,2025-01-17,Confirmed
+951288,529701,Rapid Transfers,2024-07-10,Confirmed
+951289,535861,Unusual Withdrawal,2024-11-17,Investigating
+951290,502663,Unusual Withdrawal,2022-05-16,Confirmed
+951291,508071,Large POS Spending,2022-04-06,Confirmed
+951292,531970,Rapid Transfers,2024-08-13,Investigating
+951293,545440,Unusual Withdrawal,2022-04-12,Confirmed
+951294,524767,Rapid Transfers,2023-01-19,Cleared
+951295,518235,Large POS Spending,2022-09-24,Investigating
+951296,516631,Rapid Transfers,2024-08-22,Investigating
+951297,534485,Rapid Transfers,2023-04-08,Confirmed
+951298,519158,Unusual Withdrawal,2024-10-01,Cleared
+951299,514873,Rapid Transfers,2023-03-27,Investigating
+951300,537791,Rapid Transfers,2023-11-24,Cleared
+951301,510996,Rapid Transfers,2022-07-27,Confirmed
+951302,507984,Rapid Transfers,2022-08-29,Confirmed
+951303,509623,Large POS Spending,2022-07-30,Investigating
+951304,531354,Large POS Spending,2024-07-18,Investigating
+951305,515455,Rapid Transfers,2023-07-18,Confirmed
+951306,516527,Rapid Transfers,2022-07-16,Confirmed
+951307,525066,Unusual Withdrawal,2024-12-27,Confirmed
+951308,537982,Rapid Transfers,2022-05-05,Investigating
+951309,500985,Unusual Withdrawal,2025-04-11,Confirmed
+951310,541054,Rapid Transfers,2022-11-28,Cleared
+951311,513024,Rapid Transfers,2022-09-21,Confirmed
+951312,509232,Large POS Spending,2025-03-01,Investigating
+951313,541529,Large POS Spending,2022-10-14,Cleared
+951314,508834,Unusual Withdrawal,2022-12-19,Cleared
+951315,527718,Large POS Spending,2024-01-12,Cleared
+951316,541393,Unusual Withdrawal,2023-04-06,Cleared
+951317,538199,Large POS Spending,2022-07-22,Investigating
+951318,549058,Unusual Withdrawal,2023-05-24,Confirmed
+951319,502564,Unusual Withdrawal,2023-10-09,Investigating
+951320,507507,Rapid Transfers,2022-03-21,Cleared
+951321,514530,Large POS Spending,2024-06-01,Confirmed
+951322,502514,Unusual Withdrawal,2023-11-25,Cleared
+951323,547538,Rapid Transfers,2025-01-01,Investigating
+951324,516410,Rapid Transfers,2024-12-05,Cleared
+951325,547042,Unusual Withdrawal,2024-12-01,Investigating
+951326,527556,Large POS Spending,2022-04-14,Investigating
+951327,537437,Large POS Spending,2022-07-06,Investigating
+951328,519975,Rapid Transfers,2023-01-11,Investigating
+951329,516762,Large POS Spending,2024-02-01,Confirmed
+951330,503109,Rapid Transfers,2024-03-15,Confirmed
+951331,536568,Rapid Transfers,2022-08-15,Confirmed
+951332,534467,Large POS Spending,2022-07-27,Confirmed
+951333,545993,Rapid Transfers,2023-05-30,Investigating
+951334,540841,Rapid Transfers,2022-02-08,Investigating
+951335,518327,Large POS Spending,2022-09-15,Investigating
+951336,513768,Rapid Transfers,2022-10-26,Cleared
+951337,517691,Large POS Spending,2022-12-19,Investigating
+951338,534306,Unusual Withdrawal,2025-02-27,Investigating
+951339,547047,Unusual Withdrawal,2025-03-12,Investigating
+951340,509476,Rapid Transfers,2022-04-24,Investigating
+951341,543579,Large POS Spending,2023-04-01,Investigating
+951342,547652,Large POS Spending,2023-03-04,Investigating
+951343,545528,Rapid Transfers,2022-09-08,Investigating
+951344,521477,Rapid Transfers,2023-11-08,Confirmed
+951345,518958,Large POS Spending,2022-09-23,Cleared
+951346,514904,Large POS Spending,2024-12-14,Investigating
+951347,518398,Large POS Spending,2022-10-19,Investigating
+951348,520884,Unusual Withdrawal,2025-04-13,Confirmed
+951349,518766,Rapid Transfers,2022-06-18,Confirmed
+951350,526528,Rapid Transfers,2022-08-24,Investigating
+951351,531062,Rapid Transfers,2024-02-23,Cleared
+951352,529789,Unusual Withdrawal,2023-11-09,Investigating
+951353,545593,Rapid Transfers,2023-09-28,Investigating
+951354,515570,Rapid Transfers,2023-01-20,Confirmed
+951355,531435,Rapid Transfers,2022-03-11,Investigating
+951356,524702,Large POS Spending,2025-04-08,Confirmed
+951357,539322,Unusual Withdrawal,2024-03-06,Confirmed
+951358,516995,Large POS Spending,2024-12-24,Confirmed
+951359,532029,Large POS Spending,2023-02-24,Investigating
+951360,548584,Rapid Transfers,2024-03-20,Confirmed
+951361,541906,Unusual Withdrawal,2025-03-03,Confirmed
+951362,525510,Unusual Withdrawal,2024-10-07,Confirmed
+951363,510757,Rapid Transfers,2023-09-02,Investigating
+951364,541199,Rapid Transfers,2024-06-28,Confirmed
+951365,509118,Large POS Spending,2023-06-05,Investigating
+951366,538400,Large POS Spending,2022-06-02,Investigating
+951367,539830,Unusual Withdrawal,2024-10-15,Cleared
+951368,512041,Unusual Withdrawal,2022-10-07,Investigating
+951369,541293,Rapid Transfers,2023-08-10,Confirmed
+951370,533708,Rapid Transfers,2022-10-06,Investigating
+951371,527738,Unusual Withdrawal,2022-08-26,Investigating
+951372,536193,Unusual Withdrawal,2023-10-15,Investigating
+951373,539808,Large POS Spending,2023-04-07,Cleared
+951374,543395,Rapid Transfers,2022-02-13,Confirmed
+951375,512010,Large POS Spending,2023-11-20,Investigating
+951376,518139,Rapid Transfers,2024-10-23,Investigating
+951377,501443,Large POS Spending,2024-08-28,Cleared
+951378,532376,Rapid Transfers,2023-02-05,Confirmed
+951379,545333,Rapid Transfers,2025-03-08,Confirmed
+951380,503573,Unusual Withdrawal,2022-12-05,Confirmed
+951381,510667,Large POS Spending,2022-05-08,Investigating
+951382,545540,Unusual Withdrawal,2023-11-25,Investigating
+951383,521313,Large POS Spending,2024-11-17,Cleared
+951384,505102,Large POS Spending,2024-05-27,Confirmed
+951385,535976,Large POS Spending,2022-11-07,Confirmed
+951386,531810,Unusual Withdrawal,2024-06-13,Investigating
+951387,505467,Large POS Spending,2022-12-11,Confirmed
+951388,520994,Rapid Transfers,2023-05-06,Confirmed
+951389,537242,Large POS Spending,2022-06-21,Investigating
+951390,513766,Unusual Withdrawal,2024-11-15,Cleared
+951391,542611,Rapid Transfers,2023-03-11,Cleared
+951392,545223,Unusual Withdrawal,2023-08-02,Confirmed
+951393,513944,Large POS Spending,2023-11-20,Confirmed
+951394,520431,Rapid Transfers,2024-02-11,Cleared
+951395,524606,Rapid Transfers,2024-11-30,Cleared
+951396,512420,Large POS Spending,2024-04-09,Cleared
+951397,507877,Rapid Transfers,2025-02-08,Confirmed
+951398,529149,Rapid Transfers,2024-04-05,Confirmed
+951399,542763,Unusual Withdrawal,2023-04-20,Cleared
+951400,518721,Rapid Transfers,2024-10-30,Investigating
+951401,511640,Large POS Spending,2022-08-10,Confirmed
+951402,507922,Unusual Withdrawal,2024-07-23,Cleared
+951403,507472,Unusual Withdrawal,2025-02-03,Confirmed
+951404,509914,Rapid Transfers,2025-02-19,Cleared
+951405,547914,Unusual Withdrawal,2023-02-20,Investigating
+951406,529513,Rapid Transfers,2022-04-29,Investigating
+951407,548913,Large POS Spending,2023-06-21,Investigating
+951408,549416,Rapid Transfers,2025-02-01,Investigating
+951409,536216,Rapid Transfers,2024-04-13,Investigating
+951410,511935,Rapid Transfers,2024-11-22,Confirmed
+951411,519633,Rapid Transfers,2022-12-06,Investigating
+951412,540183,Large POS Spending,2023-12-29,Confirmed
+951413,544991,Unusual Withdrawal,2024-07-11,Cleared
+951414,540306,Rapid Transfers,2025-01-27,Investigating
+951415,534300,Rapid Transfers,2024-07-03,Confirmed
+951416,530838,Unusual Withdrawal,2023-06-16,Confirmed
+951417,512289,Unusual Withdrawal,2022-10-21,Confirmed
+951418,538172,Large POS Spending,2023-02-05,Investigating
+951419,516973,Large POS Spending,2024-12-09,Confirmed
+951420,527826,Unusual Withdrawal,2025-03-20,Investigating
+951421,523538,Rapid Transfers,2024-11-03,Investigating
+951422,528538,Unusual Withdrawal,2024-12-13,Cleared
+951423,540181,Rapid Transfers,2022-08-22,Investigating
+951424,545287,Rapid Transfers,2025-03-28,Confirmed
+951425,505499,Rapid Transfers,2024-06-26,Investigating
+951426,532276,Unusual Withdrawal,2024-01-01,Investigating
+951427,502717,Rapid Transfers,2022-05-04,Confirmed
+951428,546862,Rapid Transfers,2023-12-25,Confirmed
+951429,534610,Rapid Transfers,2024-12-09,Investigating
+951430,503548,Rapid Transfers,2023-02-23,Confirmed
+951431,521556,Rapid Transfers,2023-04-15,Confirmed
+951432,539262,Large POS Spending,2023-06-16,Investigating
+951433,510761,Unusual Withdrawal,2022-10-21,Investigating
+951434,522535,Large POS Spending,2023-02-08,Confirmed
+951435,549883,Rapid Transfers,2025-03-01,Confirmed
+951436,509615,Unusual Withdrawal,2022-01-24,Investigating
+951437,534384,Unusual Withdrawal,2022-05-02,Investigating
+951438,508708,Rapid Transfers,2024-10-20,Investigating
+951439,517736,Unusual Withdrawal,2022-07-29,Investigating
+951440,539341,Large POS Spending,2023-08-07,Confirmed
+951441,538385,Rapid Transfers,2022-08-19,Investigating
+951442,501125,Large POS Spending,2024-01-06,Confirmed
+951443,509947,Large POS Spending,2024-06-16,Investigating
+951444,502695,Unusual Withdrawal,2022-10-22,Confirmed
+951445,517782,Rapid Transfers,2023-03-29,Confirmed
+951446,537695,Unusual Withdrawal,2023-07-23,Confirmed
+951447,543076,Rapid Transfers,2022-03-25,Confirmed
+951448,525280,Large POS Spending,2024-05-22,Confirmed
+951449,528343,Rapid Transfers,2024-12-22,Investigating
+951450,513532,Rapid Transfers,2022-01-25,Investigating
+951451,547568,Large POS Spending,2024-04-29,Confirmed
+951452,534411,Unusual Withdrawal,2023-06-05,Cleared
+951453,530327,Unusual Withdrawal,2024-04-11,Confirmed
+951454,549167,Large POS Spending,2022-02-01,Cleared
+951455,505364,Large POS Spending,2025-04-04,Investigating
+951456,520034,Rapid Transfers,2022-02-07,Cleared
+951457,504784,Large POS Spending,2022-04-30,Cleared
+951458,514325,Rapid Transfers,2024-09-07,Cleared
+951459,512012,Unusual Withdrawal,2024-10-12,Cleared
+951460,532994,Large POS Spending,2023-11-30,Cleared
+951461,544939,Large POS Spending,2023-06-25,Investigating
+951462,523433,Rapid Transfers,2025-02-28,Confirmed
+951463,506562,Rapid Transfers,2023-07-28,Investigating
+951464,510157,Rapid Transfers,2024-04-15,Investigating
+951465,523539,Unusual Withdrawal,2024-05-20,Confirmed
+951466,520299,Rapid Transfers,2025-03-02,Investigating
+951467,527539,Unusual Withdrawal,2022-02-13,Cleared
+951468,536596,Rapid Transfers,2023-04-23,Investigating
+951469,539559,Rapid Transfers,2023-08-22,Cleared
+951470,504678,Large POS Spending,2023-08-25,Investigating
+951471,516430,Rapid Transfers,2022-09-22,Confirmed
+951472,528420,Rapid Transfers,2022-10-23,Investigating
+951473,545059,Rapid Transfers,2023-08-28,Cleared
+951474,542096,Rapid Transfers,2022-06-16,Confirmed
+951475,540301,Large POS Spending,2022-04-18,Investigating
+951476,511911,Rapid Transfers,2022-10-13,Investigating
+951477,515819,Large POS Spending,2025-03-08,Investigating
+951478,516451,Large POS Spending,2022-11-25,Confirmed
+951479,530484,Unusual Withdrawal,2022-01-28,Investigating
+951480,508234,Rapid Transfers,2022-06-21,Confirmed
+951481,517489,Large POS Spending,2024-01-28,Investigating
+951482,549988,Rapid Transfers,2022-07-06,Investigating
+951483,526105,Unusual Withdrawal,2025-04-06,Confirmed
+951484,541086,Unusual Withdrawal,2023-08-21,Cleared
+951485,513128,Rapid Transfers,2022-01-28,Investigating
+951486,513345,Large POS Spending,2025-03-07,Investigating
+951487,547064,Rapid Transfers,2024-07-10,Investigating
+951488,512688,Large POS Spending,2022-09-24,Confirmed
+951489,522484,Rapid Transfers,2024-04-29,Investigating
+951490,542801,Unusual Withdrawal,2023-07-01,Confirmed
+951491,527903,Rapid Transfers,2022-07-25,Investigating
+951492,502903,Rapid Transfers,2023-09-02,Cleared
+951493,504504,Unusual Withdrawal,2024-09-11,Investigating
+951494,525877,Large POS Spending,2025-04-14,Confirmed
+951495,505577,Large POS Spending,2022-11-12,Investigating
+951496,502589,Unusual Withdrawal,2023-11-11,Investigating
+951497,529555,Rapid Transfers,2025-01-22,Investigating
+951498,543205,Rapid Transfers,2023-10-04,Investigating
+951499,544738,Unusual Withdrawal,2024-09-12,Confirmed
+951500,539576,Unusual Withdrawal,2022-10-29,Investigating
